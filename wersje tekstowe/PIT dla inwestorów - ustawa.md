@@ -1,6 +1,6 @@
-Ustawa z dnia ………. 2023 roku o podatku dochodowym od kapitałów pieniężnych
+# Ustawa z dnia ………. 2023 roku o podatku dochodowym od kapitałów pieniężnych
 
-**Rozdział 1 - *Przepisy ogólne***
+## **Rozdział 1 - *Przepisy ogólne***
 
 **Art. 1. [zakres]**
 
@@ -57,7 +57,7 @@ Dochodów (przychodów), o których mowa w art. 3, nie łączy się z dochodami 
 
 Od uzyskanych dochodów (przychodów) pobiera się 19% zryczałtowany podatek dochodowy, z uwzględnieniem Rozdziałów 2-4.
 
-**Rozdział 2 - *Podatek wymierzany od przychodu***
+## **Rozdział 2 - *Podatek wymierzany od przychodu***
 
 **Art. 8. [pasywne]**
 
@@ -84,7 +84,7 @@ Zryczałtowany podatek od przychodów uzyskiwanych przez wspólnika z wypłat po
 1) 90% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany, albo
 1) 70% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany.
 
-**Rozdział 3 - *Podatek wymierzany od dochodu***
+## **Rozdział 3 - *Podatek wymierzany od dochodu***
 
 **Art. 11. [katalog]**
 
@@ -147,7 +147,7 @@ wartości wierzytelności, w części zaliczonej uprzednio do przychodów należ
 3. W przypadku odpłatnego zbycia udziałów (akcji) w spółce powstałej z przekształcenia spółki niebędącej osobą prawną, kosztem uzyskania przychodów są wydatki na nabycie lub objęcie prawa do udziałów w spółce przekształcanej, powiększone o uzyskaną przez podatnika nadwyżkę przychodów nad kosztami ich uzyskania z tytułu udziału w spółce przekształcanej oraz pomniejszone o wypłaty dokonane z tytułu udziału w spółce przekształcanej i o przypadające na podatnika wydatki niestanowiące kosztów uzyskania przychodów z tytułu udziału w tej spółce. Jeżeli nastąpiło zmniejszenie udziału kapitałowego w spółce przekształcanej, to wydatki na nabycie lub objęcie prawa do udziałów w spółce przekształcanej, nadwyżkę przychodów nad kosztami ich uzyskania z tytułu udziału w spółce przekształcanej, wartość wypłaty dokonanej z tytułu udziału w spółce przekształcanej oraz przypadające na podatnika wydatki niestanowiące kosztów uzyskania przychodów z tytułu udziału w tej spółce przyjmuje się w części odpowiadającej proporcjonalnie wartości udziału kapitałowego po jego zmniejszeniu w stosunku do jego wartości przed zmniejszeniem. Zasady, o których mowa w zdaniu pierwszym i drugim, stosuje się odpowiednio, w przypadku gdy przedmiotem odpłatnego zbycia są udziały (akcje) w spółce, która powstała w następstwie kolejnych przekształceń. Jeżeli w wyniku kolejnych przekształceń, o których mowa w zdaniu trzecim, u podatnika powstał przychód podlegający opodatkowaniu podatkiem dochodowym, to wartość tego przychodu powiększa koszt uzyskania przychodów z tytułu odpłatnego zbycia udziałów (akcji).
 3. Jeżeli w związku z odpłatnym zbyciem akcji powstanie nadwyżka wydatków poniesionych na ich objęcie lub nabycie nad przychodami z ich odpłatnego zbycia, nadwyżka ta stanowi koszt uzyskania przychodów w roku podatkowym, w którym nastąpiło odpłatne zbycie takich akcji.
 
-**Rozdział 4 - *Zysk ze sprzedaży walut wirtualnych***
+## **Rozdział 4 - *Zysk ze sprzedaży walut wirtualnych***
 
 **Art. 16. [kryptowaluty]**
 
@@ -160,7 +160,7 @@ Dochodem z odpłatnego zbycia walut wirtualnych jest osiągnięta w roku podatko
 1. Nadwyżka kosztów uzyskania przychodów, o których mowa w ust. 2, nad przychodami z odpłatnego zbycia waluty wirtualnej uzyskanymi w roku podatkowym powiększa koszty uzyskania przychodów z tytułu odpłatnego zbycia waluty wirtualnej poniesione w następnym roku podatkowym.
 1. Nie uważa się za koszty uzyskania przychodów poniesionych wydatków związanych z zamianą waluty wirtualnej na inną walutę wirtualną.
 
-**Rozdział 5 - *Pobór podatku***
+## **Rozdział 5 - *Pobór podatku***
 
 **Art. 18. [moment zapłaty]**
 

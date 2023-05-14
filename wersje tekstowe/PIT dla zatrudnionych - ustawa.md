@@ -1,6 +1,6 @@
-Ustawa z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych
+# Ustawa z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych
 
-**Rozdział 1 - *Podmiot i przedmiot opodatkowania***
+## **Rozdział 1 - *Podmiot i przedmiot opodatkowania***
 
 **Art. 1. [zakres]**
 
@@ -40,7 +40,7 @@ Dla celów niniejszej ustawy rok podatkowy jest tożsamy z rokiem kalendarzowym.
    1) pełnoletnie, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną.
 2. W przypadku opieki naprzemiennej osoba samotnie wychowująca dzieci również może rozliczyć się wspólnie, przy czym dodatkowe pomniejszenie nie może przekroczyć połowy kwoty, o której mowa art. 9 ust. 2.
 
-**Rozdział 2 - *Źródła przychodów***
+## **Rozdział 2 - *Źródła przychodów***
 
 **Art. 6. [źródła przychodów]**
 
@@ -63,7 +63,7 @@ Wartości wyrażone w walutach obcych przelicza się na złote według kursu śr
 1. Minister właściwy do spraw finansów określa, w drodze rozporządzenia, zakres przedmiotowy powyższych zwolnień.
 1. Przepisów ustawy nie stosuje się również do diet z tytułu podróży w określonych limitach, zwrotu poniesionych wydatków w kwocie faktycznej albo zryczałtowanej na podstawie odrębnych przepisów.
 
-**Rozdział 3 - *Podstawa obliczenia i wysokość podatku***
+## **Rozdział 3 - *Podstawa obliczenia i wysokość podatku***
 
 **Art. 9. [podstawa]**
 
@@ -75,7 +75,7 @@ Wartości wyrażone w walutach obcych przelicza się na złote według kursu śr
 
 Jeżeli osoba mająca miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej osiąga przychody ze źródeł znajdujących się w państwie, z którym nie została zawarta umowa o unikaniu podwójnego opodatkowania, odlicza się od podatku tej osoby sumę równą podatkowi dochodowemu zapłaconemu w tym państwie. Jednakże odliczenie nie może przekroczyć tej części podatku obliczonej przed dokonaniem odliczenia, która odpowiada tej części dochodu osiągniętego w tym państwie.
 
-**Rozdział 4 - *Opodatkowanie przychodów z rzeczy i praw***
+## **Rozdział 4 - *Opodatkowanie przychodów z rzeczy i praw***
 
 **Art. 11. [sprzedaż rzeczy]**
 
@@ -116,7 +116,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 1. Podatek dochodowy pobiera się od podstawy jego obliczenia według 8% stawki od przychodów.
 1. Przychodów tych nie łączy się z innymi dochodami (przychodami).
 
-**Rozdział 5 - *Ulgi podatkowe***
+## **Rozdział 5 - *Ulgi podatkowe***
 
 **Art. 16. [ulga dla młodych]**
 
@@ -157,7 +157,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 1. Podatnik, który zaciągnął kredyt hipoteczny, ma prawo obniżyć podstawę opodatkowania z art. 8 o sumę faktycznie poniesionych odsetkowych i pozaodsetkowych kosztów kredytu hipotecznego w danym roku podatkowym, na jedną nieruchomość mieszkalną, której podatnik ten jest właścicielem lub współwłaścicielem.
 1. W przypadku małżonków posiadających wspólność majątkową, rozliczających się na podstawie art. 4, podstawę opodatkowania obniża się o dwukrotność sumy odsetek i pozaodsetkowych kosztów kredytu hipotecznego na jedną nieruchomość mieszkalną.
 
-**Rozdział 6 - *Opodatkowanie przychodów nieujawnionych***
+## **Rozdział 6 - *Opodatkowanie przychodów nieujawnionych***
 
 **Art. 21. [przychody nieujawnione]**
 
@@ -179,7 +179,7 @@ Za przychody nieujawnione uważa się kwotę odpowiadającą nadwyżce wydatku n
 1. Jeżeli w toku postępowania podatkowego albo w toku kontroli celno-skarbowej podatnik nie udowodni uzyskania przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych, stanowiących pokrycie wydatku i nastąpiło przedawnienie zobowiązania podatkowego w stosunku do tych przychodów (dochodów), to ich uzyskanie podatnik może uprawdopodobnić.
 1. Jeżeli podatnik nie wskazał, którymi przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi pokrył poszczególne wydatki, stosuje się zasadę, że najwcześniejszy wydatek jest pokrywany najwcześniejszymi przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi.
 
-**Rozdział 7 - *Pobór podatku lub zaliczek na podatek***
+## **Rozdział 7 - *Pobór podatku lub zaliczek na podatek***
 
 **Art. 25. [zaliczki na podatek]**
 

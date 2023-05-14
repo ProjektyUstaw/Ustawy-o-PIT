@@ -1,6 +1,6 @@
-Ustawa z dnia ………. 2023 roku o podatku    dochodowym od osób fizycznych prowadzących działalność gospodarczą
+# Ustawa z dnia ………. 2023 roku o podatku    dochodowym od osób fizycznych prowadzących działalność gospodarczą
 
-**Rozdział 1 - *Przepisy ogólne***
+## **Rozdział 1 - *Przepisy ogólne***
 
 **Art. 1. [zakres ustawy]**
 
@@ -35,7 +35,7 @@ Ustawa z dnia ………. 2023 roku o podatku    dochodowym od osób fizycznych p
 
 Przychodów (dochodów) opodatkowanych na podstawie niniejszej ustawy nie łączy się z przychodami (dochodami) podlegającymi opodatkowaniu na podstawie innych ustaw.
 
-**Rozdział 2 - *Ryczałt od przychodu***
+## **Rozdział 2 - *Ryczałt od przychodu***
 
 **Art. 6. [stawki podatku]**
 
@@ -67,7 +67,7 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1) sposób prowadzenia ewidencji, szczegółowe warunki, jakim powinna odpowiadać ewidencja, aby stanowiła dowód w postępowaniu podatkowym, sposób dokumentowania przychodów oraz obliczania należnego ryczałtu od przychodów ewidencjonowanych;
 1) sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych.
 
-**Rozdział 3 - *Podatek od dochodu***
+## **Rozdział 3 - *Podatek od dochodu***
 
 **Art. 10. [stawka podatku]**
 
@@ -116,7 +116,7 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, podmioty, których nie dotyczy obowiązek prowadzenia księgi, kierując się w szczególności specyfiką prowadzonej działalności.
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, sposób prowadzenia księgi, szczegółowe warunki, jakim powinna odpowiadać ta księga, oraz szczegółowy zakres obowiązków związanych z jej prowadzeniem, w celu umożliwienia wykorzystania tej księgi jako dowodu pozwalającego na określenie zobowiązań podatkowych w prawidłowej wysokości.
 
-**Rozdział 4 - *Wspólne zasady***
+## **Rozdział 4 - *Wspólne zasady***
 
 **Art. 13. [przychód z DG]**
 
@@ -155,7 +155,7 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1. Podatnicy, którzy wybrali metodę, o której mowa w ust. 2, zaliczają odpowiednio do przychodów lub kosztów uzyskania przychodów ujęte w księgach rachunkowych różnice kursowe z tytułu transakcji walutowych i wynikające z dokonanej wyceny składników aktywów i pasywów wyrażonych w walucie obcej, a także wyceny pozabilansowych pozycji w walutach obcych. Wycena ta dla celów podatkowych powinna być dokonywana na ostatni dzień każdego miesiąca i na ostatni dzień roku podatkowego lub na ostatni dzień kwartału i na ostatni dzień roku podatkowego albo tylko na ostatni dzień roku podatkowego, z tym że wybrany termin wyceny musi być stosowany przez pełny rok podatkowy i nie może być zmieniony.
 1. W przypadku wyboru metody, o której mowa w ust. 2, podatnicy mają obowiązek stosować tę metodę przez okres nie krótszy niż trzy lata podatkowe, licząc od początku roku podatkowego, w którym została przyjęta ta metoda. Podatnicy informują o wyborze tej metody w zeznaniu składanym za rok podatkowy, w którym rozpoczęli jej stosowanie.
 
-**Rozdział 5 - *Szczególne zasady***
+## **Rozdział 5 - *Szczególne zasady***
 
 **Art. 16. [szacowanie]**
 
@@ -185,7 +185,7 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1. Przy obliczaniu różnic kursowych, o których mowa w ust. 2 i 3, uwzględnia się kursy faktycznie zastosowane w przypadku sprzedaży lub kupna walut obcych oraz otrzymania należności lub zapłaty zobowiązań. W pozostałych przypadkach, a także gdy do otrzymanych należności lub zapłaty zobowiązań nie jest możliwe uwzględnienie faktycznie zastosowanego kursu waluty w danym dniu, stosuje się kurs średni ogłaszany przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego ten dzień.
 5. Przez średni kurs ogłaszany przez Narodowy Bank Polski, o którym mowa w ust. 2 i 3, rozumie się kurs z ostatniego dnia roboczego poprzedzającego dzień uzyskania przychodu lub poniesienia kosztu.
 
-**Rozdział 6 - *Ceny transferowe***
+## **Rozdział 6 - *Ceny transferowe***
 
 **Oddział 1 - *Przepisy ogólne***
 
@@ -443,7 +443,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 1. Informacja o cenach transferowych jest wykorzystywana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w zakresie cen transferowych oraz do innych analiz ekonomicznych lub statystycznych.
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, szczegółowy zakres danych i informacji oraz treść oświadczenia zawartych w informacji o cenach transferowych, wraz z objaśnieniami co do sposobu jej sporządzenia, uwzględniając konieczność zapewnienia dokonywania prawidłowej analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transferowych oraz innych analiz ekonomicznych lub statystycznych.
 
-**Rozdział 7 - *Zagraniczne jednostki kontrolowane***
+## **Rozdział 7 - *Zagraniczne jednostki kontrolowane***
 
 **Art. 38. [zagraniczna kontrola]**
 
@@ -498,7 +498,7 @@ Użyte w niniejszym rozdziale określenie:
 2. Minister właściwy do spraw finansów określi, w drodze rozporządzenia warunki zwolnienia spod przepisów Rozdziału 7, kierując się w szczególności ryzykiem erozji opodatkowania, miejscem nieograniczonego obowiązku podatkowego, prowadzeniem rzeczywistej działalności gospodarczej.
 2. Przepisy Rozdziału 7 stosuje się odpowiednio do podatnika prowadzącego działalność gospodarczą przez położony poza terytorium Rzeczypospolitej Polskiej zagraniczny zakład, chyba że dochody tego zakładu zostały uwzględnione przez podatnika w podstawie opodatkowania ustalonej.
 
-**Rozdział 8 - *Obowiązek poboru podatku u źródła***
+## **Rozdział 8 - *Obowiązek poboru podatku u źródła***
 
 **Art. 43. [katalog czynności]**
 
@@ -519,7 +519,7 @@ Użyte w niniejszym rozdziale określenie:
 1. Na sporządzony na piśmie wniosek podatnika, o którym mowa w art. 4 ust. 3, płatnik, w terminie 14 dni od dnia złożenia tego wniosku, jest obowiązany do sporządzenia i przesłania podatnikowi oraz urzędowi skarbowemu, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania, imiennej informacji, o której mowa w ust. 3 (IFT-1).
 1. Informacje, o których mowa w ust. 3, sporządzają i przekazują również podmioty, o których mowa w ust. 1, gdy na podstawie umowy o unikaniu podwójnego opodatkowania lub ustawy nie są obowiązane do poboru podatku.
 
-**Rozdział 9 - *Pobór podatku lub zaliczek na podatek***
+## **Rozdział 9 - *Pobór podatku lub zaliczek na podatek***
 
 **Art. 45. [zaliczki na podatek]**
 
