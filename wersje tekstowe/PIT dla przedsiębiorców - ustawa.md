@@ -8,7 +8,7 @@ Ustawa z dnia ………. 2023 roku o podatku    dochodowym od osób fizycznych p
    1) ryczałtu od przychodu;
    1) podatku od dochodu.
 1. O wyborze formy opodatkowania podatnik zawiadamia naczelnika właściwego miejscowo urzędu skarbowego, do końca miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu w roku podatkowym.
-1. W przypadku niezłożenia przez podatnika zawiadomienia, o którym mowa w ust. 2, zawiadomienie złożone uprzednio pozostaje w mocy.
+1. W przypadku niezłożenia przez podatnika zawiadomienia, o którym mowa w ust. 2 <dodać hyperlink do odpowiedniego ustępu w każdym odniesieniu wewnętrznym>, zawiadomienie złożone uprzednio pozostaje w mocy.
 1. Przepisy ustawy stosuje się z uwzględnieniem umów w sprawie unikania podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Przepis art. 10 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych stosuje się odpowiednio.
 
 **Art. 2. [rok podatkowy]**
