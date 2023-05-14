@@ -187,9 +187,9 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 
 ## Rozdział 6 - *Ceny transferowe*
 
-**Oddział 1 - *Przepisy ogólne***
+### Oddział 1 - *Przepisy ogólne*
 
-### Art. 18. [definicje]
+#### Art. 18. [definicje]
 
 1. Ilekroć w niniejszym rozdziale jest mowa o:
 1) cenie transferowej – oznacza to rezultat finansowy warunków ustalonych lub narzuconych w wyniku istniejących powiązań, w tym cenę, wynagrodzenie, wynik finansowy lub wskaźnik finansowy;
@@ -220,13 +220,13 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
    4. Jeżeli pomiędzy podmiotami występują relacje, które nie są ustanawiane lub utrzymywane z uzasadnionych przyczyn ekonomicznych, w tym mające na celu manipulowanie strukturą właścicielską lub tworzenie cyrkularnych struktur właścicielskich, to podmioty, pomiędzy którymi występują takie relacje, uznaje się za podmioty powiązane.
    4. Na potrzeby niniejszego rozdziału przyjmuje się, że rok obrotowy spółki niebędącej osobą prawną jest jej rokiem podatkowym.
 
-### Art. 19. [wyłączenie]
+#### Art. 19. [wyłączenie]
 
 Przepisów niniejszego rozdziału nie stosuje się do transakcji kontrolowanych oraz transakcji, innych niż transakcje kontrolowane, w których cena lub sposób określenia ceny przedmiotu takiej transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych.
 
-**Oddział 2 - *Zasada ceny rynkowej***
+### Oddział 2 - *Zasada ceny rynkowej*
 
-### Art. 20. [cena transferowa]
+#### Art. 20. [cena transferowa]
 
 1. Podmioty powiązane są obowiązane ustalać ceny transferowe na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
 1. Jeżeli w wyniku istniejących powiązań zostaną ustalone lub narzucone warunki różniące się od warunków, które ustaliłyby między sobą podmioty niepowiązane, i w wyniku tego podatnik wykazuje dochód niższy (stratę wyższą) od tego, jakiego należałoby oczekiwać, gdyby wymienione powiązania nie istniały, organ podatkowy określa dochód (stratę) podatnika bez uwzględnienia warunków wynikających z tych powiązań.
@@ -240,7 +240,7 @@ Przepisów niniejszego rozdziału nie stosuje się do transakcji kontrolowanych 
    1) brak porównywalnych transakcji występujących pomiędzy podmiotami niepowiązanymi w porównywalnych okolicznościach.
 5. Za okres objęty uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym albo porozumieniem podatkowym, organ podatkowy nie określa zobowiązania podatkowego (wysokości straty) w zakresie, w jakim wykazany przez podatnika dochód (strata) został ustalony zgodnie z tym porozumieniem.
 
-### Art. 21. [weryfikacja]
+#### Art. 21. [weryfikacja]
 
 1. Ceny transferowe weryfikuje się, stosując metodę najbardziej odpowiednią w danych okolicznościach, wybraną spośród następujących metod:
    1) porównywalnej ceny niekontrolowanej;
@@ -255,7 +255,7 @@ Przepisów niniejszego rozdziału nie stosuje się do transakcji kontrolowanych 
 1) pomija transakcję kontrolowaną – odstępuje od zastosowania metody;
 1) zastępuje transakcję kontrolowaną transakcją właściwą – stosuje metodę odpowiednią dla transakcji właściwej.
 
-### Art. 22. [korekta]
+#### Art. 22. [korekta]
 
 Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzyskanych przychodów lub poniesionych kosztów uzyskania przychodów, jeżeli są spełnione łącznie następujące warunki:
 
@@ -264,7 +264,7 @@ Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzy
 1) w momencie dokonania korekty podatnik posiada oświadczenie podmiotu powiązanego lub dowód księgowy potwierdzające dokonanie przez ten podmiot korekty cen transferowych w tej samej wysokości co podatnik;
 1) istnieje podstawa prawna do wymiany informacji podatkowych z państwem, w którym podmiot powiązany, o którym mowa w pkt 3, ma miejsce zamieszkania, siedzibę lub zarząd.
 
-### Art. 23. [usługi o niskiej wartości dodanej]
+#### Art. 23. [usługi o niskiej wartości dodanej]
 
 1. W przypadku transakcji kontrolowanych stanowiących usługi o niskiej wartości dodanej organ podatkowy odstępuje od określenia dochodu (straty) podatnika w zakresie wysokości narzutu na kosztach tych usług, jeżeli łącznie są spełnione następujące warunki:
 1) narzut na kosztach tych usług został ustalony przy wykorzystaniu metody koszt plus albo marży transakcyjnej i wynosi:
@@ -277,7 +277,7 @@ Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzy
 1) opis transakcji, w tym analizę funkcji, ryzyk i aktywów.
 2. Minister właściwy do spraw finansów określi w drodze rozporządzenia wykaz usług o niskiej wartości dodanej.
 
-### Art. 24. [pożyczki]
+#### Art. 24. [pożyczki]
 
 1. W przypadku transakcji kontrolowanej dotyczącej pożyczki organ podatkowy odstępuje od określenia dochodu (straty) podatnika w zakresie wysokości oprocentowania tej pożyczki, jeżeli łącznie są spełnione następujące warunki:
 1) oprocentowanie pożyczki w ujęciu rocznym na dzień zawarcia umowy jest ustalane w oparciu o rodzaj bazowej stopy procentowej i marżę, określone w obwieszczeniu ministra właściwego do spraw finansów aktualnym na dzień zawarcia tej umowy;
@@ -290,11 +290,11 @@ Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzy
 2. Przepisy ust. 1-3 stosuje się odpowiednio do kredytu i emisji obligacji.
 2. Minister właściwy do spraw finansów ogłasza nie rzadziej niż raz w roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, rodzaj bazowej stopy procentowej i marżę, o których mowa w ust. 1 pkt 1, biorąc pod uwagę rodzaje bazowych stóp procentowych stosowanych na międzybankowym rynku finansowym.
 
-### Art. 25. [podmiot z kraju stosującego szkodliwą konkurencję podatkową]
+#### Art. 25. [podmiot z kraju stosującego szkodliwą konkurencję podatkową]
 
 Przepisy art. 20 i art. 21 stosuje się odpowiednio do transakcji, innej niż transakcja kontrolowana, z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, uwzględniając warunki, które ustaliłyby między sobą podmioty niepowiązane niemające miejsca zamieszkania, siedziby lub zarządu na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.
 
-### Art. 26. [rozporządzenie]
+#### Art. 26. [rozporządzenie]
 
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, sposób i tryb:
 1) oceny zgodności warunków ustalonych przez podmioty powiązane z warunkami, jakie ustaliłyby między sobą podmioty niepowiązane, w tym kryteria porównywalności tych warunków,
@@ -302,9 +302,9 @@ Przepisy art. 20 i art. 21 stosuje się odpowiednio do transakcji, innej niż tr
 - mając na uwadze zapewnienie prawidłowości weryfikacji cen transferowych dokonywanej przez podatników i organy podatkowe oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
 2. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, wykaz krajów i terytoriów stosujących szkodliwą konkurencję podatkową, uwzględniając treść ustaleń w tym zakresie podjętych przez Organizację Współpracy Gospodarczej i Rozwoju, istnienie podstawy prawnej do wymiany informacji podatkowych między Rzecząpospolitą Polską a danym krajem lub terytorium, terminowość realizowania obowiązku wymiany informacji podatkowych oraz rzetelność, kompletność i czytelność przekazywanych informacji podatkowych, a także rzeczywiste cechy systemu podatkowego danego kraju lub terytorium mogące doprowadzić do stosowania szkodliwej konkurencji podatkowej.
 
-**Oddział 3 - *Dokumentacja cen transferowych***
+### Oddział 3 - *Dokumentacja cen transferowych*
 
-### Art. 27. [lokalna dokumentacja]
+#### Art. 27. [lokalna dokumentacja]
 
 1. Podmioty powiązane są obowiązane do sporządzania w postaci elektronicznej lokalnej dokumentacji cen transferowych, za rok podatkowy, w terminie do końca dziesiątego miesiąca po zakończeniu roku podatkowego, w celu wykazania, że ceny transferowe zostały ustalone na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
 1. Lokalna dokumentacja cen transferowych jest sporządzana dla transakcji kontrolowanej o charakterze jednorodnym, której wartość przekracza w roku podatkowym następujące progi dokumentacyjne:
@@ -328,7 +328,7 @@ Przepisy art. 20 i art. 21 stosuje się odpowiednio do transakcji, innej niż tr
 1) metody weryfikacji cen transferowych;
 1) inne istotne okoliczności transakcji kontrolowanej.
 
-### Art. 28. [określanie wartości]
+#### Art. 28. [określanie wartości]
 
 1. Wartość transakcji kontrolowanej odpowiada:
 1) wartości kapitału – w przypadku pożyczki, kredytu lub depozytu;
@@ -345,11 +345,11 @@ Przepisy art. 20 i art. 21 stosuje się odpowiednio do transakcji, innej niż tr
 2. Określając wartość transakcji kontrolowanych o charakterze jednorodnym, o których mowa w ust. 1, nie uwzględnia się wartości transakcji kontrolowanych, o których mowa w art. 29.
 2. Wartość transakcji kontrolowanej wyrażoną w walucie obcej przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.
 
-### Art. 29. [brak obowiązku]
+#### Art. 29. [brak obowiązku]
 
 Minister właściwy do spraw finansów może określić w drodze rozporządzenia transakcje kontrolowane, których nie dotyczy obowiązek sporządzenia lokalnej dokumentacji cen transferowych, mając na uwadze ryzyko uszczuplenia należności publicznoprawnych, sposób powiązań, charakter transakcji.
 
-### Art. 30. [inni podatnicy]
+#### Art. 30. [inni podatnicy]
 
 1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji, innej niż transakcja kontrolowana, z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi – za rok obrotowy, przekracza:
 1) 10 000 000 zł – w przypadku transakcji finansowej;
@@ -358,7 +358,7 @@ Minister właściwy do spraw finansów może określić w drodze rozporządzenia
 - przy czym przepisy art. 27 w ust. 1 i 4-6, art. 28, art. 29, art. 32 ust. 1 oraz art. 33 stosuje się odpowiednio.
 2. Wartość transakcji, o której mowa w ust. 1, wyrażoną w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.
 
-### Art. 31. [grupowa dokumentacja]
+#### Art. 31. [grupowa dokumentacja]
 
 1. Podmioty powiązane, których sprawozdania finansowe są konsolidowane metodą pełną lub proporcjonalną, obowiązane do sporządzenia lokalnej dokumentacji cen transferowych dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku podatkowego, jeżeli należą do grupy podmiotów powiązanych:
    1) dla której jest sporządzane skonsolidowane sprawozdanie finansowe;
@@ -367,7 +367,7 @@ Minister właściwy do spraw finansów może określić w drodze rozporządzenia
 1. Grupowa dokumentacja cen transferowych może być sporządzona przez podmiot powiązany obowiązany do dołączania grupowej dokumentacji cen transferowych lub inny podmiot należący do grupy podmiotów powiązanych. Sporządzenie grupowej dokumentacji cen transferowych przez inny podmiot z grupy podmiotów powiązanych nie zwalnia z odpowiedzialności za zgodność tej dokumentacji z art. 32 ust. 3.
 1. W przypadku gdy grupowa dokumentacja cen transferowych została sporządzona w języku angielskim, organ podatkowy może wystąpić z żądaniem przedłożenia, w terminie 30 dni od dnia doręczenia tego żądania, grupowej dokumentacji cen transferowych w języku polskim.
 
-### Art. 32. [elementy]
+#### Art. 32. [elementy]
 
 1. Lokalna dokumentacja cen transferowych zawiera następujące elementy:
 1) opis podmiotu powiązanego;
@@ -389,20 +389,20 @@ Minister właściwy do spraw finansów może określić w drodze rozporządzenia
 5. Przepis ust. 4 pkt 1 ma zastosowanie w przypadku przedsiębiorcy, który w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 5. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
 
-### Art. 33. [aktualizacja analiz]
+#### Art. 33. [aktualizacja analiz]
 
 Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadziej niż co 3 lata, chyba że zmiana otoczenia ekonomicznego w stopniu znacznie wpływającym na sporządzoną analizę uzasadnia dokonanie aktualizacji w roku zaistnienia tej zmiany.
 
-### Art. 34. [żądanie organów podatkowych]
+#### Art. 34. [żądanie organów podatkowych]
 
 1. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych tę dokumentację, w terminie 14 dni od dnia doręczenia tego żądania.
 1. W przypadku wystąpienia okoliczności wskazujących na prawdopodobieństwo zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków, o których mowa w art. 23. ust. 1 lub art. 24 ust. 1, organ podatkowy może zwrócić się do podatnika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, z uwzględnieniem art. 32 ust. 5, z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodności dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków.
 3. Organ podatkowy może wystąpić z żądaniem, o którym mowa w ust. 1, po upływie terminu, o którym mowa w art. 27 ust. 1, a w przypadku grupowej dokumentacji cen transferowych – po upływie terminu, o którym mowa w art. 31 ust. 1.
 3. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 30 ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 
-**Oddział 4 - *Informacja o cenach transferowych***
+### Oddział 4 - *Informacja o cenach transferowych*
 
-### Art. 35. [informacja o cenach transferowych]
+#### Art. 35. [informacja o cenach transferowych]
 
 1. Podmioty powiązane:
 1) obowiązane do sporządzania lokalnej dokumentacji cen transferowych – w zakresie transakcji objętych tym obowiązkiem lub
@@ -428,7 +428,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 6. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 30 ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepis ust. 4 stosuje się odpowiednio.
 6. W przypadku niektórych transakcji kontrolowanych określonych w art. 29, w informacji o cenach transferowych nie uwzględnia się informacji oraz oświadczenia, o których mowa w ust. 4 pkt 3 i 5-7.
 
-### Art. 36. [podpisy]
+#### Art. 36. [podpisy]
 
 1. Informacja o cenach transferowych jest podpisywana przez:
 1) osobę fizyczną – w przypadku podmiotu powiązanego będącego osobą fizyczną,
@@ -438,7 +438,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 - przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika, z wyjątkiem pełnomocnika będącego adwokatem, radcą prawnym, doradcą podatkowym lub biegłym rewidentem.
 2. Wyznaczenie osoby wchodzącej w skład organu wieloosobowego do podpisywania informacji o cenach transferowych nie zwalnia pozostałych osób wchodzących w skład tego organu z odpowiedzialności za niezłożenie tej informacji.
 
-### Art. 37. [wzór informacji]
+#### Art. 37. [wzór informacji]
 
 1. Informacja o cenach transferowych jest wykorzystywana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w zakresie cen transferowych oraz do innych analiz ekonomicznych lub statystycznych.
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, szczegółowy zakres danych i informacji oraz treść oświadczenia zawartych w informacji o cenach transferowych, wraz z objaśnieniami co do sposobu jej sporządzenia, uwzględniając konieczność zapewnienia dokonywania prawidłowej analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transferowych oraz innych analiz ekonomicznych lub statystycznych.
