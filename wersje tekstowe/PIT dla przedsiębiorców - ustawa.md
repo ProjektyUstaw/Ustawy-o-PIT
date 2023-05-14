@@ -1,8 +1,8 @@
 # Ustawa z dnia ………. 2023 roku o podatku    dochodowym od osób fizycznych prowadzących działalność gospodarczą
 
-## **Rozdział 1 - *Przepisy ogólne***
+## Rozdział 1 - *Przepisy ogólne*
 
-**Art. 1. [zakres ustawy]**
+### Art. 1. [zakres ustawy]
 
 1. Ustawa reguluje opodatkowanie osób fizycznych prowadzących działalność gospodarczą w formie:
    1) ryczałtu od przychodu;
@@ -11,18 +11,18 @@
 1. W przypadku niezłożenia przez podatnika zawiadomienia, o którym mowa w ust. 2, zawiadomienie złożone uprzednio pozostaje w mocy.
 1. Przepisy ustawy stosuje się z uwzględnieniem umów w sprawie unikania podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Przepis art. 10 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych stosuje się odpowiednio.
 
-**Art. 2. [rok podatkowy]**
+### Art. 2. [rok podatkowy]
 
 1. Rokiem podatkowym w rozumieniu tej ustawy jest rok kalendarzowy.
 1. Dla podatników rozpoczynających lub likwidujących działalność gospodarczą, rokiem podatkowym jest rok obrotowy zdefiniowany w ustawie o rachunkowości.
 
-**Art. 3. [transparentność]**
+### Art. 3. [transparentność]
 
 1. Ustawę stosuje się do wspólnika spółki niebędącej podatnikiem podatku dochodowego od osób prawnych, ponoszącego subsydiarną odpowiedzialność za zobowiązania spółki.
 1. W takim przypadku przychody i koszty uzyskania przychodu wspólnika określa się proporcjonalnie do jego prawa do udziału w zysku spółki.
 1. Przepis ten stosuje się odpowiednio do umowy spółki cywilnej lub innego wspólnego przedsięwzięcia.
 
-**Art. 4. [rezydencja]**
+### Art. 4. [rezydencja]
 
 1. Osoby fizyczne, jeżeli mają miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, podlegają obowiązkowi podatkowemu od całości swoich dochodów (przychodów) bez względu na miejsce położenia źródeł przychodów (nieograniczony obowiązek podatkowy).
 1. Za osobę mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej uważa się osobę fizyczną, która:
@@ -31,13 +31,13 @@
 
    3. Osoby fizyczne, jeżeli nie mają na terytorium Rzeczypospolitej Polskiej miejsca zamieszkania, podlegają obowiązkowi podatkowemu tylko od dochodów (przychodów) osiąganych na terytorium Rzeczypospolitej Polskiej (ograniczony obowiązek podatkowy).
 
-**Art. 5. [odrębne źródło]**
+### Art. 5. [odrębne źródło]
 
 Przychodów (dochodów) opodatkowanych na podstawie niniejszej ustawy nie łączy się z przychodami (dochodami) podlegającymi opodatkowaniu na podstawie innych ustaw.
 
-## **Rozdział 2 - *Ryczałt od przychodu***
+## Rozdział 2 - *Ryczałt od przychodu*
 
-**Art. 6. [stawki podatku]**
+### Art. 6. [stawki podatku]
 
 1. Ryczałt od przychodów wynosi:
 1) 8% z tytułu działalności usługowej;
@@ -47,29 +47,29 @@ Przychodów (dochodów) opodatkowanych na podstawie niniejszej ustawy nie łącz
    2. Metoda opodatkowania, o której mowa w ust. 1, ma zastosowanie wyłącznie w sytuacji, gdy wszyscy wspólnicy danej spółki wybrali ryczałt od przychodów jako formę opodatkowania, a spółka jest transparentna podatkowo.
    2. Przez działalność usługową rozumie się również działalność sportowców i artystów, którzy wybiorą rozliczenie swoich przychodów jako przychodów z działalności gospodarczej.
 
-**Art. 7. [limit obrotu]**
+### Art. 7. [limit obrotu]
 
 1. Prawo do wyboru ryczałtu od przychodów przysługuje podatnikom rozpoczynającym działalność gospodarczą oraz tym, którzy w poprzednim roku podatkowym nie przekroczyli 10 mln euro przychodu.
 1. Do limitu z ust. 1 nie wlicza się należnego podatku od towarów i usług.
 1. Limit z ust. 1 ma zastosowanie dla sumy przychodów osiągniętych przez wspólników danej spółki, jednak nie dla sumy przychodów osiągniętych przez wspólnika więcej niż jednej spółki.
 1. Dla obliczenia limitu z ust. 1 przyjmuje się kurs średni Narodowego Banku Polskiego z pierwszego dnia roboczego października roku poprzedzającego rok podatkowy, w którym podatnik chce kontynuować lub wybrać opodatkowanie podatkiem ryczałtowym.
 
-**Art. 8. [ewidencja]**
+### Art. 8. [ewidencja]
 
 1. Podatnicy opodatkowani w formie ryczałtu od przychodów, są obowiązani posiadać i przechowywać dowody zakupu towarów, prowadzić wykaz środków trwałych oraz wartości niematerialnych i prawnych oraz, odrębnie za każdy rok podatkowy, ewidencję przychodów, zwaną dalej „ewidencją”.
 1. Obowiązek prowadzenia ewidencji powstaje od dnia, od którego ma zastosowanie opodatkowanie w formie ryczałtu od przychodów ewidencjonowanych.
 3. Ewidencję oraz dowody, na podstawie których są dokonywane wpisy do ewidencji, a także dowody zakupu, o których mowa w ust. 1, należy przechowywać w miejscu wykonywania działalności lub, jeżeli działalność jest prowadzona w formie spółki, w miejscu wskazanym przez podatnika lub podatników – jako ich siedziba, albo w biurze rachunkowym, któremu zostało powierzone prowadzenie ewidencji.
 
-**Art. 9. [rozporządzenie]**
+### Art. 9. [rozporządzenie]
 
 Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 
 1) sposób prowadzenia ewidencji, szczegółowe warunki, jakim powinna odpowiadać ewidencja, aby stanowiła dowód w postępowaniu podatkowym, sposób dokumentowania przychodów oraz obliczania należnego ryczałtu od przychodów ewidencjonowanych;
 1) sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych.
 
-## **Rozdział 3 - *Podatek od dochodu***
+## Rozdział 3 - *Podatek od dochodu*
 
-**Art. 10. [stawka podatku]**
+### Art. 10. [stawka podatku]
 
 1. Podatek od dochodu wynosi 12% podstawy obliczenia podatku.
 1. Podstawą obliczenia podatku, o której mowa w ust. 1, stanowi przychód pomniejszony o koszty uzyskania przychodu.
@@ -78,7 +78,7 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1. Podatnicy podatku od dochodu mogą rozliczyć się wspólnie na zasadach określonych w art. 5 ust. 1 i 3 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych.
 1. Podatnikom podatku od dochodu, przysługuje prawo do rozliczenia ulg, o których mowa w Rozdziale 5 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych.
 
-**Art. 11. [koszty uzyskania przychodu]**
+### Art. 11. [koszty uzyskania przychodu]
 
 1. Kosztami uzyskania przychodów są koszty poniesione w celu osiągnięcia przychodów lub zachowania albo zabezpieczenia źródła przychodów.
 1. Podatnik ma prawo do rozliczenia kosztów uzyskania przychodu, o których mowa w ust. 1, w momencie dokonania płatności, z uwzględnieniem ust. 3-4.
@@ -110,15 +110,15 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 6. W przypadku zaistnienia okoliczności powodujących korektę kosztów uzyskania przychodu stosuje się odpowiednio art. 13 ust. 6-9.
 6. Jeżeli koszty uzyskania przekraczają sumę przychodów, różnica jest stratą. Podatnik ma prawo do rozliczenia straty w kolejno po sobie następujących latach podatkowych, w tym na etapie ustalania zaliczek na podatek dochodowy.
 
-**Art. 12. [KPiR i księgi rachunkowe]**
+### Art. 12. [KPiR i księgi rachunkowe]
 
 1. Podmioty, wykonujące działalność gospodarczą, są obowiązane prowadzić podatkową księgę przychodów i rozchodów, zwaną dalej „księgą”, albo księgi rachunkowe, zgodnie z odrębnymi przepisami, w sposób zapewniający ustalenie dochodu (straty), podstawy opodatkowania i wysokości należnego podatku za rok podatkowy, w tym za okres sprawozdawczy, a także uwzględniać w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacje niezbędne do obliczenia podstawy opodatkowania.
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, podmioty, których nie dotyczy obowiązek prowadzenia księgi, kierując się w szczególności specyfiką prowadzonej działalności.
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, sposób prowadzenia księgi, szczegółowe warunki, jakim powinna odpowiadać ta księga, oraz szczegółowy zakres obowiązków związanych z jej prowadzeniem, w celu umożliwienia wykorzystania tej księgi jako dowodu pozwalającego na określenie zobowiązań podatkowych w prawidłowej wysokości.
 
-## **Rozdział 4 - *Wspólne zasady***
+## Rozdział 4 - *Wspólne zasady*
 
-**Art. 13. [przychód z DG]**
+### Art. 13. [przychód z DG]
 
 1. Za przychód uważa się kwoty należne, choćby nie zostały faktycznie otrzymane, po wyłączeniu wartości zwróconych towarów, udzielonych bonifikat i skont. U podatników dokonujących sprzedaży towarów i usług opodatkowanych podatkiem od towarów i usług za przychód z tej sprzedaży uważa się przychód pomniejszony o należny podatek od towarów i usług.
 1. Za datę powstania przychodu, o którym mowa w ust. 1, uważa się, z zastrzeżeniem ust. 3 i 5, dzień wydania rzeczy, zbycia prawa majątkowego lub wykonania usługi, albo częściowego wykonania usługi, nie później niż dzień:
@@ -138,7 +138,7 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 4. Jeżeli korekta, o której mowa w ust. 6, następuje po likwidacji działalności gospodarczej albo zmianie formy opodatkowania, zmniejszenia lub zwiększenia przychodów dokonuje się w ostatnim okresie rozliczeniowym przed likwidacją działalności gospodarczej, zmianą formy opodatkowania.
 4. Minister właściwy do spraw finansów może określić, w drodze rozporządzenia, katalog wpływów, które uznaje się albo nie uznaje się za przychód z działalności gospodarczej, kierując się w szczególności specyfiką danej transakcji.
 
-**Art. 14. [ulga za złe długi]**
+### Art. 14. [ulga za złe długi]
 
 1. Podatnik może skorygować przychód o wierzytelności krajowe, których nieściągalność została uprawdopodobniona.
 1. Nieściągalność wierzytelności uważa się za uprawdopodobnioną, w przypadku gdy wierzytelność nie została uregulowana lub zbyta w jakiejkolwiek formie w ciągu 30 dni od dnia upływu terminu jej płatności określonego w umowie lub na fakturze.
@@ -148,16 +148,16 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1. W przypadku gdy po złożeniu zeznania podatkowego, w którym dokonano korekty, o której mowa w ust. 1, należność została uregulowana lub zbyta w jakiejkolwiek formie, wierzyciel obowiązany jest do zwiększenia przychodów w rozliczeniu za okres, w którym należność została uregulowana lub zbyta. W przypadku częściowego uregulowania należności, przychód zwiększa się w odniesieniu do tej części.
 7. Wierzyciel informuje o korekcie, o której mowa w ust. 1, właściwego miejscowo naczelnika urzędu skarbowego w zeznaniu podatkowym, w którym dokonuje tej korekty.
 
-**Art. 15. [różnice kursowe]**
+### Art. 15. [różnice kursowe]
 
 1. Podatnicy ustalają różnice kursowe na podstawie art. 14, z zastrzeżeniem ust. 2.
 1. Podatnicy prowadzący księgi rachunkowe mogą ustalać różnice kursowe na podstawie przepisów o rachunkowości, pod warunkiem że w okresie, o którym mowa w ust. 4, sporządzane przez podatników sprawozdania finansowe będą badane przez firmy audytorskie.
 1. Podatnicy, którzy wybrali metodę, o której mowa w ust. 2, zaliczają odpowiednio do przychodów lub kosztów uzyskania przychodów ujęte w księgach rachunkowych różnice kursowe z tytułu transakcji walutowych i wynikające z dokonanej wyceny składników aktywów i pasywów wyrażonych w walucie obcej, a także wyceny pozabilansowych pozycji w walutach obcych. Wycena ta dla celów podatkowych powinna być dokonywana na ostatni dzień każdego miesiąca i na ostatni dzień roku podatkowego lub na ostatni dzień kwartału i na ostatni dzień roku podatkowego albo tylko na ostatni dzień roku podatkowego, z tym że wybrany termin wyceny musi być stosowany przez pełny rok podatkowy i nie może być zmieniony.
 1. W przypadku wyboru metody, o której mowa w ust. 2, podatnicy mają obowiązek stosować tę metodę przez okres nie krótszy niż trzy lata podatkowe, licząc od początku roku podatkowego, w którym została przyjęta ta metoda. Podatnicy informują o wyborze tej metody w zeznaniu składanym za rok podatkowy, w którym rozpoczęli jej stosowanie.
 
-## **Rozdział 5 - *Szczególne zasady***
+## Rozdział 5 - *Szczególne zasady*
 
-**Art. 16. [szacowanie]**
+### Art. 16. [szacowanie]
 
 1. Jeżeli ustalenie podatku w sposób przewidziany w Rozdziale 3 i 4 nie jest możliwe, podstawę opodatkowania ustala się w drodze oszacowania.
 1. W przypadku podatników niebędących podatnikami, o których mowa w art. 4 ust. 1, obowiązanych do prowadzenia ksiąg, gdy określenie dochodu na podstawie tych ksiąg nie jest możliwe, dochód określa się w drodze oszacowania, z zastosowaniem wskaźnika dochodu w stosunku do przychodu w wysokości:
@@ -167,7 +167,7 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1) 80% – z działalności w zakresie usług adwokackich lub rzeczoznawstwa;
 1) 20% – z pozostałych źródeł przychodów.
 
-**Art. 17. [różnice kursowe]**
+### Art. 17. [różnice kursowe]
 
 1. Różnice kursowe zwiększają odpowiednio przychody jako dodatnie różnice kursowe albo koszty uzyskania przychodów jako ujemne różnice kursowe w kwocie wynikającej z różnicy między wartościami określonymi w ust. 2 i 3.
 1. Dodatnie różnice kursowe powstają, jeżeli wartość:
@@ -185,11 +185,11 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1. Przy obliczaniu różnic kursowych, o których mowa w ust. 2 i 3, uwzględnia się kursy faktycznie zastosowane w przypadku sprzedaży lub kupna walut obcych oraz otrzymania należności lub zapłaty zobowiązań. W pozostałych przypadkach, a także gdy do otrzymanych należności lub zapłaty zobowiązań nie jest możliwe uwzględnienie faktycznie zastosowanego kursu waluty w danym dniu, stosuje się kurs średni ogłaszany przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego ten dzień.
 5. Przez średni kurs ogłaszany przez Narodowy Bank Polski, o którym mowa w ust. 2 i 3, rozumie się kurs z ostatniego dnia roboczego poprzedzającego dzień uzyskania przychodu lub poniesienia kosztu.
 
-## **Rozdział 6 - *Ceny transferowe***
+## Rozdział 6 - *Ceny transferowe*
 
 **Oddział 1 - *Przepisy ogólne***
 
-**Art. 18. [definicje]**
+### Art. 18. [definicje]
 
 1. Ilekroć w niniejszym rozdziale jest mowa o:
 1) cenie transferowej – oznacza to rezultat finansowy warunków ustalonych lub narzuconych w wyniku istniejących powiązań, w tym cenę, wynagrodzenie, wynik finansowy lub wskaźnik finansowy;
@@ -220,13 +220,13 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
    4. Jeżeli pomiędzy podmiotami występują relacje, które nie są ustanawiane lub utrzymywane z uzasadnionych przyczyn ekonomicznych, w tym mające na celu manipulowanie strukturą właścicielską lub tworzenie cyrkularnych struktur właścicielskich, to podmioty, pomiędzy którymi występują takie relacje, uznaje się za podmioty powiązane.
    4. Na potrzeby niniejszego rozdziału przyjmuje się, że rok obrotowy spółki niebędącej osobą prawną jest jej rokiem podatkowym.
 
-**Art. 19. [wyłączenie]**
+### Art. 19. [wyłączenie]
 
 Przepisów niniejszego rozdziału nie stosuje się do transakcji kontrolowanych oraz transakcji, innych niż transakcje kontrolowane, w których cena lub sposób określenia ceny przedmiotu takiej transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych.
 
 **Oddział 2 - *Zasada ceny rynkowej***
 
-**Art. 20. [cena transferowa]**
+### Art. 20. [cena transferowa]
 
 1. Podmioty powiązane są obowiązane ustalać ceny transferowe na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
 1. Jeżeli w wyniku istniejących powiązań zostaną ustalone lub narzucone warunki różniące się od warunków, które ustaliłyby między sobą podmioty niepowiązane, i w wyniku tego podatnik wykazuje dochód niższy (stratę wyższą) od tego, jakiego należałoby oczekiwać, gdyby wymienione powiązania nie istniały, organ podatkowy określa dochód (stratę) podatnika bez uwzględnienia warunków wynikających z tych powiązań.
@@ -240,7 +240,7 @@ Przepisów niniejszego rozdziału nie stosuje się do transakcji kontrolowanych 
    1) brak porównywalnych transakcji występujących pomiędzy podmiotami niepowiązanymi w porównywalnych okolicznościach.
 5. Za okres objęty uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym albo porozumieniem podatkowym, organ podatkowy nie określa zobowiązania podatkowego (wysokości straty) w zakresie, w jakim wykazany przez podatnika dochód (strata) został ustalony zgodnie z tym porozumieniem.
 
-**Art. 21. [weryfikacja]**
+### Art. 21. [weryfikacja]
 
 1. Ceny transferowe weryfikuje się, stosując metodę najbardziej odpowiednią w danych okolicznościach, wybraną spośród następujących metod:
    1) porównywalnej ceny niekontrolowanej;
@@ -255,7 +255,7 @@ Przepisów niniejszego rozdziału nie stosuje się do transakcji kontrolowanych 
 1) pomija transakcję kontrolowaną – odstępuje od zastosowania metody;
 1) zastępuje transakcję kontrolowaną transakcją właściwą – stosuje metodę odpowiednią dla transakcji właściwej.
 
-**Art. 22. [korekta]**
+### Art. 22. [korekta]
 
 Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzyskanych przychodów lub poniesionych kosztów uzyskania przychodów, jeżeli są spełnione łącznie następujące warunki:
 
@@ -264,7 +264,7 @@ Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzy
 1) w momencie dokonania korekty podatnik posiada oświadczenie podmiotu powiązanego lub dowód księgowy potwierdzające dokonanie przez ten podmiot korekty cen transferowych w tej samej wysokości co podatnik;
 1) istnieje podstawa prawna do wymiany informacji podatkowych z państwem, w którym podmiot powiązany, o którym mowa w pkt 3, ma miejsce zamieszkania, siedzibę lub zarząd.
 
-**Art. 23. [usługi o niskiej wartości dodanej]**
+### Art. 23. [usługi o niskiej wartości dodanej]
 
 1. W przypadku transakcji kontrolowanych stanowiących usługi o niskiej wartości dodanej organ podatkowy odstępuje od określenia dochodu (straty) podatnika w zakresie wysokości narzutu na kosztach tych usług, jeżeli łącznie są spełnione następujące warunki:
 1) narzut na kosztach tych usług został ustalony przy wykorzystaniu metody koszt plus albo marży transakcyjnej i wynosi:
@@ -277,7 +277,7 @@ Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzy
 1) opis transakcji, w tym analizę funkcji, ryzyk i aktywów.
 2. Minister właściwy do spraw finansów określi w drodze rozporządzenia wykaz usług o niskiej wartości dodanej.
 
-**Art. 24. [pożyczki]**
+### Art. 24. [pożyczki]
 
 1. W przypadku transakcji kontrolowanej dotyczącej pożyczki organ podatkowy odstępuje od określenia dochodu (straty) podatnika w zakresie wysokości oprocentowania tej pożyczki, jeżeli łącznie są spełnione następujące warunki:
 1) oprocentowanie pożyczki w ujęciu rocznym na dzień zawarcia umowy jest ustalane w oparciu o rodzaj bazowej stopy procentowej i marżę, określone w obwieszczeniu ministra właściwego do spraw finansów aktualnym na dzień zawarcia tej umowy;
@@ -290,11 +290,11 @@ Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzy
 2. Przepisy ust. 1-3 stosuje się odpowiednio do kredytu i emisji obligacji.
 2. Minister właściwy do spraw finansów ogłasza nie rzadziej niż raz w roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, rodzaj bazowej stopy procentowej i marżę, o których mowa w ust. 1 pkt 1, biorąc pod uwagę rodzaje bazowych stóp procentowych stosowanych na międzybankowym rynku finansowym.
 
-**Art. 25. [podmiot z kraju stosującego szkodliwą konkurencję podatkową]**
+### Art. 25. [podmiot z kraju stosującego szkodliwą konkurencję podatkową]
 
 Przepisy art. 20 i art. 21 stosuje się odpowiednio do transakcji, innej niż transakcja kontrolowana, z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, uwzględniając warunki, które ustaliłyby między sobą podmioty niepowiązane niemające miejsca zamieszkania, siedziby lub zarządu na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.
 
-**Art. 26. [rozporządzenie]**
+### Art. 26. [rozporządzenie]
 
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, sposób i tryb:
 1) oceny zgodności warunków ustalonych przez podmioty powiązane z warunkami, jakie ustaliłyby między sobą podmioty niepowiązane, w tym kryteria porównywalności tych warunków,
@@ -304,7 +304,7 @@ Przepisy art. 20 i art. 21 stosuje się odpowiednio do transakcji, innej niż tr
 
 **Oddział 3 - *Dokumentacja cen transferowych***
 
-**Art. 27. [lokalna dokumentacja]**
+### Art. 27. [lokalna dokumentacja]
 
 1. Podmioty powiązane są obowiązane do sporządzania w postaci elektronicznej lokalnej dokumentacji cen transferowych, za rok podatkowy, w terminie do końca dziesiątego miesiąca po zakończeniu roku podatkowego, w celu wykazania, że ceny transferowe zostały ustalone na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
 1. Lokalna dokumentacja cen transferowych jest sporządzana dla transakcji kontrolowanej o charakterze jednorodnym, której wartość przekracza w roku podatkowym następujące progi dokumentacyjne:
@@ -328,7 +328,7 @@ Przepisy art. 20 i art. 21 stosuje się odpowiednio do transakcji, innej niż tr
 1) metody weryfikacji cen transferowych;
 1) inne istotne okoliczności transakcji kontrolowanej.
 
-**Art. 28. [określanie wartości]**
+### Art. 28. [określanie wartości]
 
 1. Wartość transakcji kontrolowanej odpowiada:
 1) wartości kapitału – w przypadku pożyczki, kredytu lub depozytu;
@@ -345,11 +345,11 @@ Przepisy art. 20 i art. 21 stosuje się odpowiednio do transakcji, innej niż tr
 2. Określając wartość transakcji kontrolowanych o charakterze jednorodnym, o których mowa w ust. 1, nie uwzględnia się wartości transakcji kontrolowanych, o których mowa w art. 29.
 2. Wartość transakcji kontrolowanej wyrażoną w walucie obcej przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.
 
-**Art. 29. [brak obowiązku]**
+### Art. 29. [brak obowiązku]
 
 Minister właściwy do spraw finansów może określić w drodze rozporządzenia transakcje kontrolowane, których nie dotyczy obowiązek sporządzenia lokalnej dokumentacji cen transferowych, mając na uwadze ryzyko uszczuplenia należności publicznoprawnych, sposób powiązań, charakter transakcji.
 
-**Art. 30. [inni podatnicy]**
+### Art. 30. [inni podatnicy]
 
 1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji, innej niż transakcja kontrolowana, z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi – za rok obrotowy, przekracza:
 1) 10 000 000 zł – w przypadku transakcji finansowej;
@@ -358,7 +358,7 @@ Minister właściwy do spraw finansów może określić w drodze rozporządzenia
 - przy czym przepisy art. 27 w ust. 1 i 4-6, art. 28, art. 29, art. 32 ust. 1 oraz art. 33 stosuje się odpowiednio.
 2. Wartość transakcji, o której mowa w ust. 1, wyrażoną w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.
 
-**Art. 31. [grupowa dokumentacja]**
+### Art. 31. [grupowa dokumentacja]
 
 1. Podmioty powiązane, których sprawozdania finansowe są konsolidowane metodą pełną lub proporcjonalną, obowiązane do sporządzenia lokalnej dokumentacji cen transferowych dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku podatkowego, jeżeli należą do grupy podmiotów powiązanych:
    1) dla której jest sporządzane skonsolidowane sprawozdanie finansowe;
@@ -367,7 +367,7 @@ Minister właściwy do spraw finansów może określić w drodze rozporządzenia
 1. Grupowa dokumentacja cen transferowych może być sporządzona przez podmiot powiązany obowiązany do dołączania grupowej dokumentacji cen transferowych lub inny podmiot należący do grupy podmiotów powiązanych. Sporządzenie grupowej dokumentacji cen transferowych przez inny podmiot z grupy podmiotów powiązanych nie zwalnia z odpowiedzialności za zgodność tej dokumentacji z art. 32 ust. 3.
 1. W przypadku gdy grupowa dokumentacja cen transferowych została sporządzona w języku angielskim, organ podatkowy może wystąpić z żądaniem przedłożenia, w terminie 30 dni od dnia doręczenia tego żądania, grupowej dokumentacji cen transferowych w języku polskim.
 
-**Art. 32. [elementy]**
+### Art. 32. [elementy]
 
 1. Lokalna dokumentacja cen transferowych zawiera następujące elementy:
 1) opis podmiotu powiązanego;
@@ -389,11 +389,11 @@ Minister właściwy do spraw finansów może określić w drodze rozporządzenia
 5. Przepis ust. 4 pkt 1 ma zastosowanie w przypadku przedsiębiorcy, który w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 5. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
 
-**Art. 33. [aktualizacja analiz]**
+### Art. 33. [aktualizacja analiz]
 
 Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadziej niż co 3 lata, chyba że zmiana otoczenia ekonomicznego w stopniu znacznie wpływającym na sporządzoną analizę uzasadnia dokonanie aktualizacji w roku zaistnienia tej zmiany.
 
-**Art. 34. [żądanie organów podatkowych]**
+### Art. 34. [żądanie organów podatkowych]
 
 1. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych tę dokumentację, w terminie 14 dni od dnia doręczenia tego żądania.
 1. W przypadku wystąpienia okoliczności wskazujących na prawdopodobieństwo zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków, o których mowa w art. 23. ust. 1 lub art. 24 ust. 1, organ podatkowy może zwrócić się do podatnika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, z uwzględnieniem art. 32 ust. 5, z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodności dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków.
@@ -402,7 +402,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 
 **Oddział 4 - *Informacja o cenach transferowych***
 
-**Art. 35. [informacja o cenach transferowych]**
+### Art. 35. [informacja o cenach transferowych]
 
 1. Podmioty powiązane:
 1) obowiązane do sporządzania lokalnej dokumentacji cen transferowych – w zakresie transakcji objętych tym obowiązkiem lub
@@ -428,7 +428,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 6. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 30 ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepis ust. 4 stosuje się odpowiednio.
 6. W przypadku niektórych transakcji kontrolowanych określonych w art. 29, w informacji o cenach transferowych nie uwzględnia się informacji oraz oświadczenia, o których mowa w ust. 4 pkt 3 i 5-7.
 
-**Art. 36. [podpisy]**
+### Art. 36. [podpisy]
 
 1. Informacja o cenach transferowych jest podpisywana przez:
 1) osobę fizyczną – w przypadku podmiotu powiązanego będącego osobą fizyczną,
@@ -438,21 +438,21 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 - przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika, z wyjątkiem pełnomocnika będącego adwokatem, radcą prawnym, doradcą podatkowym lub biegłym rewidentem.
 2. Wyznaczenie osoby wchodzącej w skład organu wieloosobowego do podpisywania informacji o cenach transferowych nie zwalnia pozostałych osób wchodzących w skład tego organu z odpowiedzialności za niezłożenie tej informacji.
 
-**Art. 37. [wzór informacji]**
+### Art. 37. [wzór informacji]
 
 1. Informacja o cenach transferowych jest wykorzystywana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w zakresie cen transferowych oraz do innych analiz ekonomicznych lub statystycznych.
 1. Minister właściwy do spraw finansów określi, w drodze rozporządzenia, szczegółowy zakres danych i informacji oraz treść oświadczenia zawartych w informacji o cenach transferowych, wraz z objaśnieniami co do sposobu jej sporządzenia, uwzględniając konieczność zapewnienia dokonywania prawidłowej analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transferowych oraz innych analiz ekonomicznych lub statystycznych.
 
-## **Rozdział 7 - *Zagraniczne jednostki kontrolowane***
+## Rozdział 7 - *Zagraniczne jednostki kontrolowane*
 
-**Art. 38. [zagraniczna kontrola]**
+### Art. 38. [zagraniczna kontrola]
 
 Użyte w niniejszym rozdziale określenie:
 
 1) zagraniczna jednostka – oznacza podmiot nieposiadający siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej, w której podatnik, o którym mowa w art. 4 ust. 1, posiada udział w kapitale, prawo głosu w organach kontrolnych lub stanowiących lub prawo do uczestnictwa w zysku;
 1) jednostka zależna – podatnika podatku dochodowego od osób prawnych, która posiada w Rzeczypospolitej Polsce nieograniczony obowiązek podatkowy albo zagraniczny podmiot niespełniający warunków, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 25% udziałów w kapitale lub 25% praw głosu w organach kontrolnych lub stanowiących, lub 25% udziałów związanych z prawem do uczestnictwa w zyskach.
 
-**Art. 39. [warunki]**
+### Art. 39. [warunki]
 
 1. Zagraniczną jednostką kontrolowaną jest:
 1) zagraniczny podmiot mający siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, albo
@@ -466,7 +466,7 @@ Użyte w niniejszym rozdziale określenie:
 1) co najmniej jeden rodzaj przychodów, o których mowa w lit. b, uzyskiwanych przez tę spółkę, podlega w państwie jej siedziby lub zarządu opodatkowaniu według stawki podatku dochodowego obowiązującej w tym państwie niższej o co najmniej 25% podstawowej stawki podatku dochodowego od osób prawnych, lub zwolnieniu lub wyłączeniu z opodatkowania podatkiem dochodowym w tym państwie, chyba że przychody te podlegają zwolnieniu od opodatkowania w państwie siedziby lub zarządu spółki je otrzymującej na podstawie przepisów dyrektywy Rady 2011/96/UE z dnia 30 listopada 2011 r. w sprawie wspólnego systemu opodatkowania mającego zastosowanie w przypadku spółek dominujących i spółek zależnych różnych państw członkowskich.
 2. Przepis ust. 1 pkt 3 lit. a stosuje się również, w przypadku gdy 25% udziałów w kapitale lub 25% praw głosu w organach kontrolnych lub stanowiących lub 25% udziałów związanych z prawem do uczestnictwa w zyskach zagranicznej spółki pozostaje w posiadaniu ustalonym łącznie z małżonkiem podatnika, a także jego krewnymi do drugiego stopnia.
 
-**Art. 40. [podstawa obliczenia]**
+### Art. 40. [podstawa obliczenia]
 
 1. Podatek od dochodów zagranicznej jednostki kontrolowanej uzyskanych przez podatnika,
    1. którym mowa w art. 4 ust. 1, wynosi 19% podstawy obliczenia podatku.
@@ -477,7 +477,7 @@ Użyte w niniejszym rozdziale określenie:
    3. Kwoty nieodliczone zgodnie z ust. 2 w danym roku podatkowym podlegają odliczeniu w następnych, kolejno po sobie następujących pięciu latach podatkowych.
    3. Dochód, o którym mowa w ust. 2, stanowi uzyskana w roku podatkowym nadwyżka sumy przychodów nad kosztami ich uzyskania, ustalonymi zgodnie z przepisami ustawy, bez względu na rodzaj źródeł przychodów, ustalona na ostatni dzień roku podatkowego zagranicznej jednostki kontrolowanej. Jeżeli zagraniczna spółka kontrolowana nie ma ustalonego roku podatkowego albo rok ten przekracza okres kolejnych, następujących po sobie 12 miesięcy, przyjmuje się, że rokiem podatkowym zagranicznej jednostki kontrolowanej jest rok podatkowy podatnika. Dochód zagranicznej jednostki kontrolowanej nie podlega pomniejszeniu o straty poniesione w latach poprzednich.
 
-**Art. 41. [ustalanie udziału]**
+### Art. 41. [ustalanie udziału]
 
 1. Jeżeli nie jest możliwe ustalenie udziału podatnika związanego z prawem do uczestnictwa w zyskach zagranicznej jednostki kontrolowanej albo nastąpiło wyłączenie lub ograniczenie tego prawa, dla ustalenia udziału związanego z prawem do uczestnictwa w zyskach zagranicznej jednostki kontrolowanej przyjmuje się najwyższy, określony procentowo, udział podatnika w kapitale, prawie głosu w organach kontrolnych albo prawie głosu w organach stanowiących tej spółki.
 1. W przypadku zagranicznej jednostki kontrolowanej, o której mowa w art. 39 ust. 1 pkt 1, dla ustalenia udziału związanego z prawem do uczestnictwa w zyskach zagranicznej jednostki kontrolowanej przyjmuje się, że podatnikowi lub podatnikom, o których mowa w art. 4 ust. 1, przysługiwały, przez cały rok podatkowy, wszystkie prawa do uczestnictwa w zyskach tej spółki. W przypadku braku przeciwnego dowodu przyjmuje się, że udziały podatników, o których mowa w art. 4 ust. 1, związane z prawem do uczestnictwa w zyskach są równe.
@@ -491,16 +491,16 @@ Użyte w niniejszym rozdziale określenie:
 4. Przepis ust. 6 stosuje się pod warunkiem istnienia podstawy prawnej wynikającej z umowy
 - unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarodowej, której stroną jest Unia Europejska, do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego innego państwa, w którym dochód został uzyskany.
 
-**Art. 42. [ewidencja CFC]**
+### Art. 42. [ewidencja CFC]
 
 1. Podatnicy są obowiązani do prowadzenia rejestru zagranicznych spółek, a po zakończeniu roku podatkowego, nie później niż przed upływem terminu do złożenia zeznania o wysokości dochodu zagranicznej jednostki kontrolowanej osiągniętego w roku podatkowym, są obowiązani do zaewidencjonowania zdarzeń zaistniałych w zagranicznej jednostce kontrolowanej w ewidencji odrębnej od innych, w sposób zapewniający określenie wysokości dochodu, podstawy obliczenia podatku i wysokości należnego podatku za rok podatkowy, w tym także do uwzględnienia w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacji niezbędnych do określenia wysokości odpisów amortyzacyjnych.
 2. Na żądanie organu podatkowego lub organu kontroli skarbowej podatnik jest obowiązany udostępnić, w terminie 7 dni od dnia otrzymania żądania, prowadzone ewidencje i rejestr. Jeżeli podatnik nie udostępni tych ewidencji lub rejestru albo ustalenie dochodu na podstawie prowadzonych ewidencji nie jest możliwe, dochód określa się w drodze oszacowania, przy uwzględnieniu przedmiotu działalności (transakcji), z której dochód został osiągnięty. Do określenia dochodu w drodze oszacowania stosuje się przepisy Ordynacji podatkowej.
 2. Minister właściwy do spraw finansów określi, w drodze rozporządzenia warunki zwolnienia spod przepisów Rozdziału 7, kierując się w szczególności ryzykiem erozji opodatkowania, miejscem nieograniczonego obowiązku podatkowego, prowadzeniem rzeczywistej działalności gospodarczej.
 2. Przepisy Rozdziału 7 stosuje się odpowiednio do podatnika prowadzącego działalność gospodarczą przez położony poza terytorium Rzeczypospolitej Polskiej zagraniczny zakład, chyba że dochody tego zakładu zostały uwzględnione przez podatnika w podstawie opodatkowania ustalonej.
 
-## **Rozdział 8 - *Obowiązek poboru podatku u źródła***
+## Rozdział 8 - *Obowiązek poboru podatku u źródła*
 
-**Art. 43. [katalog czynności]**
+### Art. 43. [katalog czynności]
 
 1. Podatek dochodowy od uzyskanych na terytorium Rzeczypospolitej Polskiej przez osoby,
 - których mowa w art. 4 ust. 3, przychodów:
@@ -511,7 +511,7 @@ Użyte w niniejszym rozdziale określenie:
 1) z tytułu świadczeń doradczych, księgowych, badania rynku, usług prawnych, usług reklamowych, zarządzania i kontroli, przetwarzania danych, usług rekrutacji pracowników i pozyskiwania personelu, gwarancji i poręczeń – pobiera się w formie ryczałtu w wysokości 20% przychodu.
 2. Zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego zaświadczeniem wydanym przez właściwy organ administracji podatkowej.
 
-**Art. 44. [pobór podatku]**
+### Art. 44. [pobór podatku]
 
 1. Podmioty prowadzące działalność gospodarczą są obowiązane pobierać zryczałtowany podatek dochodowy od dokonywanych wypłat (świadczeń) lub stawianych do dyspozycji podatnika pieniędzy lub wartości pieniężnych z tytułów określonych w art. 43.
 1. Płatnicy nie są obowiązani do poboru zryczałtowanego podatku dochodowego od należności pod warunkiem udokumentowania miejsca zamieszkania podatnika, o którym mowa w art. 4 ust. 3, prowadzącego działalność gospodarczą poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, uzyskanym od niego certyfikatem rezydencji oraz uzyskania sporządzonego na piśmie oświadczenia, że należności te związane są z działalnością tego zakładu.
@@ -519,32 +519,32 @@ Użyte w niniejszym rozdziale określenie:
 1. Na sporządzony na piśmie wniosek podatnika, o którym mowa w art. 4 ust. 3, płatnik, w terminie 14 dni od dnia złożenia tego wniosku, jest obowiązany do sporządzenia i przesłania podatnikowi oraz urzędowi skarbowemu, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania, imiennej informacji, o której mowa w ust. 3 (IFT-1).
 1. Informacje, o których mowa w ust. 3, sporządzają i przekazują również podmioty, o których mowa w ust. 1, gdy na podstawie umowy o unikaniu podwójnego opodatkowania lub ustawy nie są obowiązane do poboru podatku.
 
-## **Rozdział 9 - *Pobór podatku lub zaliczek na podatek***
+## Rozdział 9 - *Pobór podatku lub zaliczek na podatek*
 
-**Art. 45. [zaliczki na podatek]**
+### Art. 45. [zaliczki na podatek]
 
 1. Podatnicy obowiązani są do uiszczania miesięcznych zaliczek na poczet podatku. Zaliczki są płatne do końca następnego miesiąca.
 1. Zaliczki na podatek obliczane są w sposób narastający na zasadach ryczałtu od przychodu albo podatku od dochodu.
 
-**Art. 46. [zeznania podatkowe]**
+### Art. 46. [zeznania podatkowe]
 
 1. Podatnicy są obowiązani składać urzędom skarbowym zeznanie, według ustalonego wzoru, o wysokości osiągniętego przychodu w roku podatkowym do dnia 30 kwietnia roku następującego po roku podatkowym.
 2. W przypadku niezłożenia w terminie zeznania, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego przygotuje i złoży zeznanie za podatnika na podstawie wpłaconych zaliczek.
 2. Przed upływem terminu określonego na złożenie zeznania podatnicy są obowiązani wpłacić różnicę między podatkiem należnym wynikającym z zeznania, o którym mowa w ust. 1, a sumą zapłaconych za dany rok zaliczek.
 2. Minister właściwy do spraw finansów określa, w drodze rozporządzenia, wzory zeznań lub informacji składanych przez podatników lub płatników oraz kwestie techniczne z tym związane.
 
-**Art. 47. [wina organu]**
+### Art. 47. [wina organu]
 
 1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień. Przepisy art. 274 § 2–4 i 6 Ordynacji podatkowej stosuje się odpowiednio.
 1. Od zaległości związanych z korektą zeznania, o której mowa w ust. 1, nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia upływu terminu do wniesienia sprzeciwu, o którym mowa w art. 274 § 3 Ordynacji podatkowej.
 1. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty.
 
-**Art. 48. [procent na OPP]**
+### Art. 48. [procent na OPP]
 
 1. Naczelnik urzędu skarbowego właściwy miejscowo dla złożenia zeznania podatkowego, na wniosek podatnika, przekazuje na rzecz jednej organizacji pożytku publicznego działającej na podstawie ustawy o działalności pożytku publicznego, wybranej przez podatnika z wykazu, o którym mowa w ustawie o działalności pożytku publicznego, zwanej dalej „organizacją pożytku publicznego”, kwotę w wysokości nieprzekraczającej 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego.
 1. W przypadku niezłożenia wniosku, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego przekazuje 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego na rzecz organizacji pożytku publicznego, wskazanej w poprzednim zeznaniu podatkowym.
 1. Minister właściwy do spraw finansów, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1,5% podatku, określi w drodze rozporządzenia, kwestie techniczne związane z poborem.
 
-**Art. 49. [wejście w życie]**
+### Art. 49. [wejście w życie]
 
 Ustawa wchodzi w życie z dniem … 2023 r.
