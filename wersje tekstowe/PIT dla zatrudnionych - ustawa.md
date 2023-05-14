@@ -103,8 +103,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 ### Art. 14. [wysokość podatku]
 
-1. Od dochodu z odpłatnego zbycia rzeczy i praw majątkowych podatek dochodowy wynosi 12% podstawy obliczenia podatku.
-2. Podstawą obliczenia podatku, o której mowa w ust. 1, jest dochód stanowiący różnicę pomiędzy przychodem z odpłatnego zbycia rzeczy lub praw majątkowych, a udokumentowanymi kosztami nabycia lub poniesionymi nakładami.
+1. Podstawą obliczenia podatku, o której mowa w ust. 1, jest dochód stanowiący różnicę pomiędzy przychodem z odpłatnego zbycia rzeczy lub praw majątkowych, a udokumentowanymi kosztami nabycia lub poniesionymi nakładami na poszczególne rzeczy lub prawa.
 
 ### Art. 15. [wynajem prywatny]
 
