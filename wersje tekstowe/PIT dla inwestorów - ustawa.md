@@ -15,34 +15,30 @@ Dla celów niniejszej ustawy rok podatkowy jest tożsamy z rokiem kalendarzowym.
 
 ### Art. 3. [przedmiot]
 
-Zyskami kapitałowymi w rozumieniu niniejszej ustawy są:
-
-1) różnice pomiędzy kwotą udzielonej pożyczki a sumą zwróconych kwot;
-1) odsetki i dyskonta od papierów wartościowych;
-1) odsetki lub inne przychody od środków pieniężnych zgromadzonych na rachunku podatnika lub w innych formach oszczędzania, przechowywania lub inwestowania;
-1) dywidendy i inne przychody z tytułu udziału w zyskach osób prawnych, w tym akcjonariuszy spółek komandytowo-akcyjnych;
-1) zyski wypłacone przez spółkę komandytową wspólnikowi będącemu komandytariuszem;
-1) zyski wypłacone wspólnikom przez spółkę osobową, opodatkowaną podatkiem dochodowym od osób prawnych na gruncie odrębnych przepisów;
-1) zyski z tytułu udziału w funduszach kapitałowych;
-1) środki uzyskane w związku z dobrowolnym ubezpieczeniem emerytalnym, w szczególności poprzez Indywidualne Konta Emerytalne, Indywidualne Konta Zabezpieczenia Emerytalnego, Pracownicze Plany Kapitałowe, Pracownicze Programy Emerytalne;
-1) dochody z tytułu otrzymania składników majątku w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, w wyniku otrzymania których Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tych składników majątku;
-10) dochody uzyskane z odpłatnego zbycia papierów wartościowych lub pochodnych instrumentów finansowych, w tym z realizacji praw wynikających z tych instrumentów
-10) dochody z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny;
-10) zyski ze sprzedaży walut wirtualnych.
+1. Zyskami kapitałowymi w rozumieniu niniejszej ustawy są:
+   1) różnice pomiędzy kwotą udzielonej pożyczki a sumą zwróconych kwot;
+   1) odsetki i dyskonta od papierów wartościowych;
+   1) odsetki lub inne przychody od środków pieniężnych zgromadzonych na rachunku podatnika lub w innych formach oszczędzania, przechowywania lub inwestowania;
+   1) dywidendy i inne przychody z tytułu udziału w zyskach osób prawnych, w tym akcjonariuszy spółek komandytowo-akcyjnych;
+   1) zyski wypłacone przez spółkę komandytową wspólnikowi będącemu komandytariuszem;
+   1) zyski wypłacone wspólnikom przez spółkę osobową, opodatkowaną podatkiem dochodowym od osób prawnych na gruncie odrębnych przepisów;
+   1) zyski z tytułu udziału w funduszach kapitałowych;
+   1) środki uzyskane w związku z dobrowolnym ubezpieczeniem emerytalnym, w szczególności poprzez Indywidualne Konta Emerytalne, Indywidualne Konta Zabezpieczenia Emerytalnego, Pracownicze Plany Kapitałowe, Pracownicze Programy Emerytalne;
+   1) dochody z tytułu otrzymania składników majątku w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, w wyniku otrzymania których Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tych składników majątku;
+   10) dochody uzyskane z odpłatnego zbycia papierów wartościowych lub pochodnych instrumentów finansowych, w tym z realizacji praw wynikających z tych instrumentów
+   10) dochody z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny;
+   10) zyski ze sprzedaży walut wirtualnych.
 
 ### Art. 4. [zwolnienia]
 
-Wolne od podatku od zysków kapitałowych są:
-
-1) przychody (dochody) od środków pieniężnych zgromadzonych na lokacie bankowej podatnika;
-1) przychody (dochody) związane z dobrowolnym ubezpieczeniem emerytalnym, w szczególności poprzez Indywidualne Konta Emerytalne, Indywidualne Konta Zabezpieczenia Emerytalnego, Pracownicze Plany Kapitałowe, Pracownicze Programy Emerytalne;
-1) przychody (dochody) uzyskane z obligacji Skarbu Państwa;
-1) wartość wkładu niepieniężnego określona w umowie, statucie lub innym dokumencie o podobnym charakterze, jeżeli wkładem jest przedsiębiorstwo lub jego zorganizowana część, z zastrzeżeniem ust. 2.
-
-2\. Zwolnienie, o którym mowa w ust. 1 pkt 4, ma zastosowanie, jeżeli łącznie spełnione są następujące warunki:
-
-1) podmiot otrzymujący wkład przyjął dla celów podatkowych składniki majątku wchodzące w skład tego przedsiębiorstwa lub jego zorganizowanej części w wartości wynikającej z ksiąg podatkowych podmiotu wnoszącego ten wkład;
-1) podmiot otrzymujący majątek podlega opodatkowaniu w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego od całości swoich dochodów, bez względu na miejsce ich osiągania.
+1. Wolne od podatku od zysków kapitałowych są:
+   1) przychody (dochody) od środków pieniężnych zgromadzonych na lokacie bankowej podatnika;
+   1) przychody (dochody) związane z dobrowolnym ubezpieczeniem emerytalnym, w szczególności poprzez Indywidualne Konta Emerytalne, Indywidualne Konta Zabezpieczenia Emerytalnego, Pracownicze Plany Kapitałowe, Pracownicze Programy Emerytalne;
+   1) przychody (dochody) uzyskane z obligacji Skarbu Państwa;
+   1) wartość wkładu niepieniężnego określona w umowie, statucie lub innym dokumencie o podobnym charakterze, jeżeli wkładem jest przedsiębiorstwo lub jego zorganizowana część, z zastrzeżeniem ust. 2.
+2. Zwolnienie, o którym mowa w ust. 1 pkt 4, ma zastosowanie, jeżeli łącznie spełnione są następujące warunki:
+   1) podmiot otrzymujący wkład przyjął dla celów podatkowych składniki majątku wchodzące w skład tego przedsiębiorstwa lub jego zorganizowanej części w wartości wynikającej z ksiąg podatkowych podmiotu wnoszącego ten wkład;
+   1) podmiot otrzymujący majątek podlega opodatkowaniu w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego od całości swoich dochodów, bez względu na miejsce ich osiągania.
 
 ### Art. 5. [sumowanie]
 
@@ -61,14 +57,13 @@ Od uzyskanych dochodów (przychodów) pobiera się 19% zryczałtowany podatek do
 
 ### Art. 8. [pasywne]
 
-Podatek od przychodów pobiera się, z zastrzeżeniem art. 4 oraz 9-10, od:
-
-1) odsetek od pożyczek, z wyjątkiem gdy udzielanie pożyczek jest przedmiotem działalności gospodarczej;
-1) odsetek i dyskonta od papierów wartościowych;
-1) odsetek lub innych przychodów od środków pieniężnych zgromadzonych na rachunku podatnika lub w innych formach oszczędzania, przechowywania lub inwestowania, prowadzonych przez podmiot uprawniony na podstawie odrębnych przepisów;
-1) dywidend i innych przychodów z tytułu udziału w zyskach osób prawnych, w tym akcjonariuszy spółek komandytowo-akcyjnych;
-1) zysku wypłaconego przez spółkę komandytową wspólnikowi będącemu komandytariuszem;
-1) zysku wypłaconego wspólnikom przez spółkę osobową, opodatkowaną podatkiem dochodowym od osób prawnych na gruncie odrębnych przepisów.
+1. Podatek od przychodów pobiera się, z zastrzeżeniem art. 4 oraz 9-10, od:
+   1) odsetek od pożyczek, z wyjątkiem gdy udzielanie pożyczek jest przedmiotem działalności gospodarczej;
+   1) odsetek i dyskonta od papierów wartościowych;
+   1) odsetek lub innych przychodów od środków pieniężnych zgromadzonych na rachunku podatnika lub w innych formach oszczędzania, przechowywania lub inwestowania, prowadzonych przez podmiot uprawniony na podstawie odrębnych przepisów;
+   1) dywidend i innych przychodów z tytułu udziału w zyskach osób prawnych, w tym akcjonariuszy spółek komandytowo-akcyjnych;
+   1) zysku wypłaconego przez spółkę komandytową wspólnikowi będącemu komandytariuszem;
+   1) zysku wypłaconego wspólnikom przez spółkę osobową, opodatkowaną podatkiem dochodowym od osób prawnych na gruncie odrębnych przepisów.
 
 ### Art. 9. [prawo do odliczenia]
 
@@ -79,10 +74,9 @@ Podatek od przychodów pobiera się, z zastrzeżeniem art. 4 oraz 9-10, od:
 
 ### Art. 10. [CIT-E]
 
-Zryczałtowany podatek od przychodów uzyskiwanych przez wspólnika z wypłat podzielonych zysków spółki osiągniętych przez tę spółkę w okresie opodatkowania ryczałtem od dochodów spółek, jeżeli pochodzą z podziału zysków z tego okresu wyodrębnionych w kapitale własnym spółki, pomniejsza się o kwotę stanowiącą:
-
-1) 90% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany, albo
-1) 70% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany.
+1. Zryczałtowany podatek od przychodów uzyskiwanych przez wspólnika z wypłat podzielonych zysków spółki osiągniętych przez tę spółkę w okresie opodatkowania ryczałtem od dochodów spółek, jeżeli pochodzą z podziału zysków z tego okresu wyodrębnionych w kapitale własnym spółki, pomniejsza się o kwotę stanowiącą:
+   1) 90% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany, albo
+   1) 70% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany.
 
 ## Rozdział 3 - *Podatek wymierzany od dochodu*
 
@@ -119,23 +113,20 @@ Podstawę opodatkowania stanowi różnica między sumą przychodów a kosztami u
 ### Art. 14. [aport]
 
 1. W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny – na dzień objęcia tych udziałów (akcji) albo wkładów – ustala się koszt uzyskania przychodu w wysokości:
-1) wartości początkowej przedmiotu wkładu, zaktualizowanej zgodnie z odrębnymi przepisami, pomniejszonej o sumę dokonanych przed wniesieniem tego wkładu odpisów amortyzacyjnych, jeżeli przedmiotem wkładu niepieniężnego są środki trwałe lub wartości niematerialne i prawne;
-1) wartości:
-   1) określonej w umowie, statucie lub innym dokumencie o podobnym charakterze, nie niższej niż wartość rynkowa przedmiotu wkładu – jeżeli przedmiotem wkładu są udziały (akcje) w spółce albo wkłady w spółdzielni objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część,
-   1) wydatków na objęcie lub nabycie przedmiotu wkładu, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, nie zostały objęte w zamian za wkład niepieniężny,
-   1) określonej zgodnie z ust. 3, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części – jeżeli przedmiotem wkładu niepieniężnego są udziały (akcje) w spółce albo wkłady w spółdzielni;
-1) wartości odpowiadającej kwocie pożyczki, która została przekazana przez wnoszącego wkład na rachunek płatniczy tej spółki lub spółdzielni, nie wyższej jednak niż wartość wkładu z tytułu tej pożyczki – jeżeli przedmiotem wkładu niepieniężnego jest wierzytelność z tytułu tej pożyczki;
-1) faktycznie poniesionych, niezaliczonych do kosztów uzyskania przychodów, wydatków na nabycie lub wytworzenie innych niż wymienione w pkt 1-3 składników majątku podatnika – jeżeli przedmiotem wkładu niepieniężnego są te inne składniki;
-1) wydatków na nabycie lub wytworzenie składnika majątku, niezaliczonych do kosztów uzyskania przychodów w jakiejkolwiek formie lub wartości początkowej takiego składnika majątku pomniejszonej o sumę dokonanych od tego składnika odpisów amortyzacyjnych – jeżeli składnik ten został otrzymany przez podatnika w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce;
-6) przyjętej dla celów podatkowych wartości składników majątku, wynikającej z ksiąg, ewidencji i wykazu, określonej na dzień objęcia udziałów (akcji), nie wyższej jednak niż ich wartość z dnia objęcia – w przypadku gdy udziały (akcje) wnoszone w formie wkładu niepieniężnego zostały objęte w następstwie przekształcenia przedsiębiorcy będącego osobą fizyczną w spółkę kapitałową;
-6) przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji) albo wkładów w spółdzielni, nie wyższej jednak niż wartość tych udziałów (akcji) lub wkładów z dnia ich objęcia – w przypadku gdy przedmiotem wkładu jest przedsiębiorstwo lub jego zorganizowana część.
-2. W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny w postaci wierzytelności związanej z prowadzoną działalnością gospodarczą, innej niż wskazana w ust. 1 pkt 3 – na dzień objęcia tych udziałów (akcji) albo wkładów – ustala się koszt uzyskania przychodu w wysokości
-
-wartości wierzytelności, w części zaliczonej uprzednio do przychodów należnych.3. W przypadku odpłatnego zbycia udziałów (akcji) w spółce objętych w zamian za wkład niepieniężny, na dzień zbycia tych udziałów (akcji), koszt uzyskania przychodów ustala się w wysokości:
-
-1) przychodu z odpłatnego zbycia wierzytelności dotyczącej prowadzonej działalności gospodarczej albo wniesionego wkładu – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część, w tym również w zamian za wkład niepieniężny w postaci komercjalizowanej własności intelektualnej;
-1) określonej zgodnie z wartością wniesionego wkładu – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części;
-1) przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części, wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji), nie wyższej jednak niż wartość tych udziałów (akcji) z dnia ich objęcia, określona zgodnie z wniesionego wkładu – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części.
+   1) wartości początkowej przedmiotu wkładu, zaktualizowanej zgodnie z odrębnymi przepisami, pomniejszonej o sumę dokonanych przed wniesieniem tego wkładu odpisów amortyzacyjnych, jeżeli przedmiotem wkładu niepieniężnego są środki trwałe lub wartości niematerialne i prawne;
+   1) wartości:
+      1) określonej w umowie, statucie lub innym dokumencie o podobnym charakterze, nie niższej niż wartość rynkowa przedmiotu wkładu – jeżeli przedmiotem wkładu są udziały (akcje) w spółce albo wkłady w spółdzielni objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część,
+      1) wydatków na objęcie lub nabycie przedmiotu wkładu, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, nie zostały objęte w zamian za wkład niepieniężny,
+      1) określonej zgodnie z ust. 3, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części – jeżeli przedmiotem wkładu niepieniężnego są udziały (akcje) w spółce albo wkłady w spółdzielni;
+   1) wartości odpowiadającej kwocie pożyczki, która została przekazana przez wnoszącego wkład na rachunek płatniczy tej spółki lub spółdzielni, nie wyższej jednak niż wartość wkładu z tytułu tej pożyczki – jeżeli przedmiotem wkładu niepieniężnego jest wierzytelność z tytułu tej pożyczki;
+   1) faktycznie poniesionych, niezaliczonych do kosztów uzyskania przychodów, wydatków na nabycie lub wytworzenie innych niż wymienione w pkt 1-3 składników majątku podatnika – jeżeli przedmiotem wkładu niepieniężnego są te inne składniki;
+   1) wydatków na nabycie lub wytworzenie składnika majątku, niezaliczonych do kosztów uzyskania przychodów w jakiejkolwiek formie lub wartości początkowej takiego składnika majątku pomniejszonej o sumę dokonanych od tego składnika odpisów amortyzacyjnych – jeżeli składnik ten został otrzymany przez podatnika w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce;
+   6) przyjętej dla celów podatkowych wartości składników majątku, wynikającej z ksiąg, ewidencji i wykazu, określonej na dzień objęcia udziałów (akcji), nie wyższej jednak niż ich wartość z dnia objęcia – w przypadku gdy udziały (akcje) wnoszone w formie wkładu niepieniężnego zostały objęte w następstwie przekształcenia przedsiębiorcy będącego osobą fizyczną w spółkę kapitałową;
+   6) przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji) albo wkładów w spółdzielni, nie wyższej jednak niż wartość tych udziałów (akcji) lub wkładów z dnia ich objęcia – w przypadku gdy przedmiotem wkładu jest przedsiębiorstwo lub jego zorganizowana część.
+2. W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny w postaci wierzytelności związanej z prowadzoną działalnością gospodarczą, innej niż wskazana w ust. 1 pkt 3 – na dzień objęcia tych udziałów (akcji) albo wkładów – ustala się koszt uzyskania przychodu w wysokości wartości wierzytelności, w części zaliczonej uprzednio do przychodów należnych.3. W przypadku odpłatnego zbycia udziałów (akcji) w spółce objętych w zamian za wkład niepieniężny, na dzień zbycia tych udziałów (akcji), koszt uzyskania przychodów ustala się w wysokości:
+   1) przychodu z odpłatnego zbycia wierzytelności dotyczącej prowadzonej działalności gospodarczej albo wniesionego wkładu – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część, w tym również w zamian za wkład niepieniężny w postaci komercjalizowanej własności intelektualnej;
+   1) określonej zgodnie z wartością wniesionego wkładu – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części;
+   1) przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części, wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji), nie wyższej jednak niż wartość tych udziałów (akcji) z dnia ich objęcia, określona zgodnie z wniesionego wkładu – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części.
 
 ### Art. 15. [reorganizacja]
 
