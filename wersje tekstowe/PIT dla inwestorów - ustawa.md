@@ -1,19 +1,19 @@
-Ustawa z dnia ………. 2023 roku o podatku dochodowym od kapitałów pieniężnych
+# Ustawa z dnia ………. 2023 roku o podatku dochodowym od kapitałów pieniężnych
 
-**Rozdział 1 - *Przepisy ogólne***
+## Rozdział 1 - *Przepisy ogólne*
 
-**Art. 1. [zakres]**
+### Art. 1. [zakres]
 
 1. Ustawa reguluje opodatkowanie dochodów (przychodów) uzyskanych przez osoby fizyczne z kapitałów pieniężnych.
 1. Przepisy ustawy stosuje się z uwzględnieniem umów w sprawie unikania podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska.
 1. Zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 1. W sprawach nieuregulowanych na gruncie niniejszej ustawy zastosowanie mają przepisy Rozdziału 6 i 8 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych prowadzących działalność gospodarczą.
 
-**Art. 2. [rok podatkowy]**
+### Art. 2. [rok podatkowy]
 
 Dla celów niniejszej ustawy rok podatkowy jest tożsamy z rokiem kalendarzowym.
 
-**Art. 3. [przedmiot]**
+### Art. 3. [przedmiot]
 
 Zyskami kapitałowymi w rozumieniu niniejszej ustawy są:
 
@@ -30,7 +30,7 @@ Zyskami kapitałowymi w rozumieniu niniejszej ustawy są:
 10) dochody z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny;
 10) zyski ze sprzedaży walut wirtualnych.
 
-**Art. 4. [zwolnienia]**
+### Art. 4. [zwolnienia]
 
 Wolne od podatku od zysków kapitałowych są:
 
@@ -44,22 +44,22 @@ Wolne od podatku od zysków kapitałowych są:
 1) podmiot otrzymujący wkład przyjął dla celów podatkowych składniki majątku wchodzące w skład tego przedsiębiorstwa lub jego zorganizowanej części w wartości wynikającej z ksiąg podatkowych podmiotu wnoszącego ten wkład;
 1) podmiot otrzymujący majątek podlega opodatkowaniu w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego od całości swoich dochodów, bez względu na miejsce ich osiągania.
 
-**Art. 5. [sumowanie]**
+### Art. 5. [sumowanie]
 
 Dochodów (przychodów), o których mowa w art. 3, nie łączy się z dochodami opodatkowanymi na zasadach określonych w innych ustawach.
 
-**Art. 6. [przychody]**
+### Art. 6. [przychody]
 
 1. Przychody, o których mowa w art. 3, powstają w momencie otrzymania lub postawienia do dyspozycji podatnika, z zastrzeżeniem ust. 2
 1. Przychód z wniesienia wkładu niepieniężnego, odpłatnego zbycia udziałów (akcji), udziałów w spółdzielni oraz papierów wartościowych powstaje w momencie przeniesienia na nabywcę przedmiotu transakcji.
 
-**Art. 7. [stawka]**
+### Art. 7. [stawka]
 
 Od uzyskanych dochodów (przychodów) pobiera się 19% zryczałtowany podatek dochodowy, z uwzględnieniem Rozdziałów 2-4.
 
-**Rozdział 2 - *Podatek wymierzany od przychodu***
+## Rozdział 2 - *Podatek wymierzany od przychodu*
 
-**Art. 8. [pasywne]**
+### Art. 8. [pasywne]
 
 Podatek od przychodów pobiera się, z zastrzeżeniem art. 4 oraz 9-10, od:
 
@@ -70,23 +70,23 @@ Podatek od przychodów pobiera się, z zastrzeżeniem art. 4 oraz 9-10, od:
 1) zysku wypłaconego przez spółkę komandytową wspólnikowi będącemu komandytariuszem;
 1) zysku wypłaconego wspólnikom przez spółkę osobową, opodatkowaną podatkiem dochodowym od osób prawnych na gruncie odrębnych przepisów.
 
-**Art. 9. [prawo do odliczenia]**
+### Art. 9. [prawo do odliczenia]
 
 1. Wspólnicy spółek osobowych, które są opodatkowane podatkiem dochodowym osób prawnych, mają prawo odliczyć podatek zapłacony przez spółkę od podatku przypadającego na swoją część udziału w zysku.
 1. Przepis ust. 1 ma zastosowanie do wspólników spółki jawnej oraz komplementariusza spółki komandytowej oraz komandytowo-akcyjnej.
 1. Podatek dochodowy od osób prawnych podlega odliczeniu w proporcji do udziału w zysku wspólnika w roku, w którym dany zysk został uzyskany.
 1. Kwota pomniejszenia nie może przekroczyć wysokości podatku wspólnika.
 
-**Art. 10. [CIT-E]**
+### Art. 10. [CIT-E]
 
 Zryczałtowany podatek od przychodów uzyskiwanych przez wspólnika z wypłat podzielonych zysków spółki osiągniętych przez tę spółkę w okresie opodatkowania ryczałtem od dochodów spółek, jeżeli pochodzą z podziału zysków z tego okresu wyodrębnionych w kapitale własnym spółki, pomniejsza się o kwotę stanowiącą:
 
 1) 90% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany, albo
 1) 70% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany.
 
-**Rozdział 3 - *Podatek wymierzany od dochodu***
+## Rozdział 3 - *Podatek wymierzany od dochodu*
 
-**Art. 11. [katalog]**
+### Art. 11. [katalog]
 
 1. Podatek od dochodów pobiera się:
    1) z odpłatnego zbycia papierów wartościowych lub pochodnych instrumentów finansowych, w tym z realizacji praw wynikających z tych instrumentów;
@@ -97,11 +97,11 @@ Zryczałtowany podatek od przychodów uzyskiwanych przez wspólnika z wypłat po
    1) z tytułu inwestowania składki ubezpieczeniowej.
 1. Pod pojęciem udziałów (akcji), na gruncie niniejszej ustawy, rozumie się również ogół praw i obowiązków w spółce osobowej.
 
-**Art. 12. [podstawa]**
+### Art. 12. [podstawa]
 
 Podstawę opodatkowania stanowi różnica między sumą przychodów a kosztami uzyskania przychodów, określonymi w art. 13-15.
 
-**Art. 13. [KUP]**
+### Art. 13. [KUP]
 
 1. Kosztami uzyskania przychodu ze źródeł wskazanych w art. 11 ust. 1 są faktyczne wydatki poniesione przez podatnika na nabycie tych praw lub przedmiotu wkładu niepieniężnego albo na inwestowanie składki ubezpieczeniowej, niezaliczone wcześniej w jakiekolwiek formie do kosztów uzyskania przychodu.
 1. Koszty wskazane w ust. 1 są potrącalne z chwilą uzyskania odpowiadającego im przychodu.
@@ -116,7 +116,7 @@ Podstawę opodatkowania stanowi różnica między sumą przychodów a kosztami u
 5. W przypadku gdy podatnik wniósł do spółki niebędącej osobą prawną wkład niepieniężny, a spółka niebędąca osobą prawną uległa przekształceniu w spółkę lub została przejęta przez spółkę, przez wydatki na nabycie lub objęcie udziałów (akcji) spółki uważa się wydatki poniesione na nabycie lub wytworzenie składników majątku stanowiących przedmiot takiego wkładu, niezaliczone do kosztów uzyskania przychodów w jakiejkolwiek formie.
 5. W przypadku gdy udziały (akcje), papiery wartościowe, tytuły uczestnictwa w funduszach kapitałowych oraz pochodne instrumenty finansowe zostały przez podatnika otrzymane w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, przez wydatki uważa się wydatki poniesione na ich nabycie lub objęcie, niezaliczone w jakiejkolwiek formie do kosztów uzyskania przychodów przez wspólnika lub spółkę niebędącą osobą prawną.
 
-**Art. 14. [aport]**
+### Art. 14. [aport]
 
 1. W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny – na dzień objęcia tych udziałów (akcji) albo wkładów – ustala się koszt uzyskania przychodu w wysokości:
 1) wartości początkowej przedmiotu wkładu, zaktualizowanej zgodnie z odrębnymi przepisami, pomniejszonej o sumę dokonanych przed wniesieniem tego wkładu odpisów amortyzacyjnych, jeżeli przedmiotem wkładu niepieniężnego są środki trwałe lub wartości niematerialne i prawne;
@@ -137,7 +137,7 @@ wartości wierzytelności, w części zaliczonej uprzednio do przychodów należ
 1) określonej zgodnie z wartością wniesionego wkładu – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części;
 1) przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części, wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji), nie wyższej jednak niż wartość tych udziałów (akcji) z dnia ich objęcia, określona zgodnie z wniesionego wkładu – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części.
 
-**Art. 15. [reorganizacja]**
+### Art. 15. [reorganizacja]
 
 1. W przypadku odpłatnego zbycia udziałów (akcji) objętych w wyniku podziału lub łączenia spółek, kosztem uzyskania przychodu z odpłatnego zbycia udziałów (akcji) w spółce przejmującej lub nowo zawiązanej jest wartość emisyjna objętych udziałów (akcji).
 1. W przypadku odpłatnego zbycia udziałów (akcji) spółek podzielonych przez wydzielenie, kosztem uzyskania przychodów u tego wspólnika są wydatki na nabycie lub objęcie udziałów (akcji) spółki podzielonej w takiej proporcji, w jakiej pozostaje wartość pozostałego w spółce po wydzieleniu majątku do wartości majątku spółki bezpośrednio przed podziałem.
@@ -147,40 +147,40 @@ wartości wierzytelności, w części zaliczonej uprzednio do przychodów należ
 3. W przypadku odpłatnego zbycia udziałów (akcji) w spółce powstałej z przekształcenia spółki niebędącej osobą prawną, kosztem uzyskania przychodów są wydatki na nabycie lub objęcie prawa do udziałów w spółce przekształcanej, powiększone o uzyskaną przez podatnika nadwyżkę przychodów nad kosztami ich uzyskania z tytułu udziału w spółce przekształcanej oraz pomniejszone o wypłaty dokonane z tytułu udziału w spółce przekształcanej i o przypadające na podatnika wydatki niestanowiące kosztów uzyskania przychodów z tytułu udziału w tej spółce. Jeżeli nastąpiło zmniejszenie udziału kapitałowego w spółce przekształcanej, to wydatki na nabycie lub objęcie prawa do udziałów w spółce przekształcanej, nadwyżkę przychodów nad kosztami ich uzyskania z tytułu udziału w spółce przekształcanej, wartość wypłaty dokonanej z tytułu udziału w spółce przekształcanej oraz przypadające na podatnika wydatki niestanowiące kosztów uzyskania przychodów z tytułu udziału w tej spółce przyjmuje się w części odpowiadającej proporcjonalnie wartości udziału kapitałowego po jego zmniejszeniu w stosunku do jego wartości przed zmniejszeniem. Zasady, o których mowa w zdaniu pierwszym i drugim, stosuje się odpowiednio, w przypadku gdy przedmiotem odpłatnego zbycia są udziały (akcje) w spółce, która powstała w następstwie kolejnych przekształceń. Jeżeli w wyniku kolejnych przekształceń, o których mowa w zdaniu trzecim, u podatnika powstał przychód podlegający opodatkowaniu podatkiem dochodowym, to wartość tego przychodu powiększa koszt uzyskania przychodów z tytułu odpłatnego zbycia udziałów (akcji).
 3. Jeżeli w związku z odpłatnym zbyciem akcji powstanie nadwyżka wydatków poniesionych na ich objęcie lub nabycie nad przychodami z ich odpłatnego zbycia, nadwyżka ta stanowi koszt uzyskania przychodów w roku podatkowym, w którym nastąpiło odpłatne zbycie takich akcji.
 
-**Rozdział 4 - *Zysk ze sprzedaży walut wirtualnych***
+## Rozdział 4 - *Zysk ze sprzedaży walut wirtualnych*
 
-**Art. 16. [kryptowaluty]**
+### Art. 16. [kryptowaluty]
 
 Dochodem z odpłatnego zbycia walut wirtualnych jest osiągnięta w roku podatkowym różnica między sumą przychodów uzyskanych z tytułu odpłatnego zbycia walut wirtualnych a kosztami uzyskania przychodów określonymi na podstawie art. 17.
 
-**Art. 17. [koszty krypto]**
+### Art. 17. [koszty krypto]
 
 1. Koszty uzyskania przychodów z tytułu odpłatnego zbycia waluty wirtualnej stanowią udokumentowane wydatki bezpośrednio poniesione na nabycie pierwotne lub pochodne waluty wirtualnej oraz koszty związane ze zbyciem waluty wirtualnej, w tym udokumentowane wydatki poniesione na rzecz podmiotów, o których mowa w art. 2 ust. 1 pkt 12 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
 1. Koszty uzyskania przychodów, o których mowa w ust. 1, są potrącane w tym roku podatkowym, w którym zostały poniesione, z zastrzeżeniem ust. 4.
 1. Nadwyżka kosztów uzyskania przychodów, o których mowa w ust. 2, nad przychodami z odpłatnego zbycia waluty wirtualnej uzyskanymi w roku podatkowym powiększa koszty uzyskania przychodów z tytułu odpłatnego zbycia waluty wirtualnej poniesione w następnym roku podatkowym.
 1. Nie uważa się za koszty uzyskania przychodów poniesionych wydatków związanych z zamianą waluty wirtualnej na inną walutę wirtualną.
 
-**Rozdział 5 - *Pobór podatku***
+## Rozdział 5 - *Pobór podatku*
 
-**Art. 18. [moment zapłaty]**
+### Art. 18. [moment zapłaty]
 
 1. Do poboru podatku, do końca następnego miesiąca, jako płatnicy obowiązane są podmioty prowadzące działalność gospodarczą, wypłacające przychód, o którym mowa w Rozdziale 2.
 1. Podatnicy osiągający dochody, o których mowa w Rozdziałach 3-4, nie są obowiązani do wpłacania w trakcie roku podatkowego zaliczek na podatek dochodowy.
 
-**Art. 19. [zeznania podatkowe]**
+### Art. 19. [zeznania podatkowe]
 
 1. Podatnicy są obowiązani składać urzędom skarbowym zeznanie, według ustalonego wzoru, o wysokości osiągniętego przychodu w roku podatkowym do dnia 30 kwietnia roku następującego po roku podatkowym.
 1. Przed upływem terminu określonego na złożenie zeznania podatnicy są obowiązani wpłacić kwotę podatku należnego, wynikającego z zeznania, o którym mowa w ust. 1.
 1. W zeznaniu, o którym mowa w ust. 1, podatnik wykazuje koszty uzyskania przychodów, o których mowa w art. 15, także wtedy, gdy w roku podatkowym nie uzyskał przychodów z odpłatnego zbycia walut wirtualnych.
 1. Minister właściwy do spraw finansów określa, w drodze rozporządzenia, wzory zeznań lub informacji składanych przez podatników lub płatników oraz kwestie techniczne z tym związane.
 
-**Art. 20. [procent na OPP]**
+### Art. 20. [procent na OPP]
 
 1. Naczelnik urzędu skarbowego właściwy miejscowo dla złożenia zeznania podatkowego, na wniosek podatnika, przekazuje na rzecz jednej organizacji pożytku publicznego działającej na podstawie ustawy o działalności pożytku publicznego, wybranej przez podatnika z wykazu, o którym mowa w ustawie o działalności pożytku publicznego, zwanej dalej „organizacją pożytku publicznego”, kwotę w wysokości nieprzekraczającej 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego.
 1. W przypadku niezłożenia wniosku, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego przekazuje 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego na rzecz organizacji pożytku publicznego, wskazanej w poprzednim zeznaniu podatkowym.
 1. Przekazanie 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego nie jest możliwe, jeżeli w roku podatkowym, którego dotyczy rozliczenie, podatnik nie zapłacił podatku dochodowego na gruncie niniejszej ustawy w kwocie przekraczającej 100 złotych.
 1. Minister właściwy do spraw finansów, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1,5% podatku, określi w drodze rozporządzenia, kwestie techniczne związane z poborem.
 
-**Art. 21. [wejście w życie]**
+### Art. 21. [wejście w życie]
 
 Ustawa wchodzi w życie z dniem … 2023 r.
