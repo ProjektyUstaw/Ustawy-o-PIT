@@ -55,7 +55,7 @@ Po zgłoszeniu:
 
 * Ktoś postara się jak najszybciej odpowiedzieć.
 * Zespół projektowy może oznaczyć problem w zależności od tego, na ile uzna, że zgłoszenie jest istotne.
-* Jeśli Ty lub osoby odpowiedzialne za utrzymanie nie odpowiecie na problem przez 30 dni, problem zostanie zamknięty. Jeśli chcesz do niego wrócić, odpowiedz (proszę tylko raz), a my otworzymy istniejący problem ponownie. Prosimy unikać tworzenia nowych Issue jako rozszerzeń do już istniejących. Możesz komentować 
+* Jeśli Ty lub osoby odpowiedzialne za utrzymanie nie odpowiecie na problem przez 30 dni, problem zostanie zamknięty. Jeśli chcesz do niego wrócić, odpowiedz (proszę tylko raz), a my otworzymy istniejący problem ponownie. Prosimy unikać tworzenia nowych Issue jako rozszerzeń do już istniejących. Możesz dodawać komentarze do każdego Issue.
 
 ## Przeglądanie zmian innych
 
@@ -81,7 +81,7 @@ Głowną różnicą między Issue, a Pull Request jest to, że do stworzenia Pul
 * Jeżeli wyskoczy komunikat "Sorry, it looks like your fork is outdated!", naciśnij "Update your fork".
 * Wprowadź zmiany.
 * W prawym górnym rogu widoku pliku znajduje się zielony przycisk "Commit changes...". Jeżeli jesteś zadowolony ze swojej edycji, naciśnij go.
-* W oknie "Commit message" dajemy opis tak zwanego commita. Commity to zmiany, między którymi można przechodzić. Commitów w PR może być wiele. Napisz tam prostą, klarnowną wiadomość czego dotyczące twoje zmiany. Przykładowo może to być "Zaktualizuj Art. 2. rok podatkowy".
+* W oknie "Commit message" dajemy opis tak zwanego commita. Commity to zmiany, między którymi można przechodzić. Commitów w PR może być wiele. Napisz tam prostą, klarnowną wiadomość czego dotyczą twoje zmiany. Przykładowo może to być "Zaktualizuj Art. 2. rok podatkowy".
 * W oknie "Extended description" możesz dać bardziej szczegółowy opis zmian.
 * Naciśnij "Propose changes".
 * Naciśnij "Create pull request".
@@ -96,4 +96,4 @@ Po złożeniu PR:
 * Jedna lub więcej osób odpowiedzialnych za projekt przejrzy twoją propozycję. Może ją zaakceptować, odrzucić, lub dodać komentarz.
 * Jeśli osoba odpowiedzialna za utrzymanie poprosi o jakieś zmiany, dokonaj tych zmian, wykonaj push i poproś o kolejną recenzję.
 * Jeśli osoba odpowiedzialna za utrzymanie zdecyduje, że nie zaakceptuje Twojego PR, podziękują Ci za kontrybucję i wyjaśnią, dlaczego nie przyjmują zmian. To w porządku! Bardzo doceniamy Twój wkład i nie lekceważymy go.
-* Jeśli Twój PR zostanie zaakceptowany, zostanie to oznaczone, a następnie scalone z odpowiednim plikiem. Twoja kontrybucja zostanie rozpowszechniona wśród użytkowników i zostanie oznaczona wersja np. v1.0, v1.1 itd.
+* Jeśli Twój PR zostanie zaakceptowany, zostanie to oznaczone, a następnie scalone z odpowiednim plikiem. Twoja kontrybucja zostanie rozpowszechniona wśród użytkowników i zostanie oznaczona wersją np. v1.0, v1.1 itd.
