@@ -120,7 +120,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 **Art. 16. [ulga dla młodych]**
 
-1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł.
+1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty równej 24-krotności minimalnego wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
 1. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
 
 **Art. 17. [ulga na dzieci]**
@@ -129,7 +129,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
    1) wykonywał władzę rodzicielską;
    1) pełnił funkcję opiekuna prawnego, jeżeli dziecko z nim zamieszkiwało;
    1) sprawował opiekę poprzez pełnienie funkcji rodziny zastępczej na podstawie orzeczenia sądu lub umowy zawartej ze starostą.
-1. Odliczeniu podlega kwota 500 zł za każdy miesiąc kalendarzowy roku podatkowego, w którym podatnik wykonywał władzę, pełnił funkcję albo sprawował opiekę, o których mowa w ust. 1, w stosunku do:
+1. Odliczeniu podlega kwota równa 14% minimalnego wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, za każdy miesiąc kalendarzowy roku podatkowego, w którym podatnik wykonywał władzę, pełnił funkcję albo sprawował opiekę, o których mowa w ust. 1, w stosunku do:
 1) małoletniego dziecka;
 1) pełnoletniego dziecka, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną.
 
@@ -149,7 +149,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 **Art. 19. [ulga dla emerytów]**
 
-1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika po ukończeniu wieku emerytalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł, pod warunkiem niepobierania przez tegoż podatnika świadczenia emerytalnego.
+1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika po ukończeniu wieku emerytalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty równej 24-krotności minimalnego wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, pod warunkiem niepobierania przez tegoż podatnika świadczenia emerytalnego.
 1. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
 
 **Art. 20. [ulga kredytowa]**
