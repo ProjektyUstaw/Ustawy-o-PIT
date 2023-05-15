@@ -34,7 +34,7 @@ Github pozwala na przetrzymywanie wielu wersji tego samego pliku, edycję plikó
 
 Jeśli masz pytanie dotyczące tego projektu lub potrzebujesz wyjaśnienia czegoś:
 
-* Otwórz dyskujsę (discussion) na stronie https://github.com/ProjektyUstaw/Ustawy-o-PIT/discussions. Zrobisz to klikając w zielony guzik "New discussion" po prawej stronie.
+* Otwórz dyskusję (discussion) na stronie https://github.com/ProjektyUstaw/Ustawy-o-PIT/discussions. Zrobisz to klikając w zielony guzik "New discussion" po prawej stronie.
 * Podaj jak najwięcej informacji na temat napotkanego problemu.
 
 Po zgłoszeniu:
@@ -89,7 +89,7 @@ Głowną różnicą między Issue, a Pull Request jest to, że do stworzenia Pul
 * Możesz również dodać bardziej szczegółowy opis PR w większym oknie poniżej. Jeśli Twój PR jest powiązany z otwartym problemem (Issue), dodaj w opisie swojego PR linijkę zawierającą `Fixes: #123`, gdzie `#123` to numer Issue, którym się zajmujesz.
 * Pozostaw zaznaczone "Allow edits by maintainers".
 * Naciśnij "Create pull request".
-* Gratulacje, twoje propozycje zostały zaproponowane. Jeżeli chcesz się z nich wycofać, wystarczy, że naciśniesz przycisk "Close" na dole widoku PR.
+* Gratulacje, twoje propozycje zostały zaproponowane. Jeżeli chcesz się z nich wycofać, wystarczy, że naciśniesz przycisk "Close pull request" na dole widoku PR.
 
 Po złożeniu PR:
 
