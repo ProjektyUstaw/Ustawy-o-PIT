@@ -14,25 +14,25 @@ Dla celów niniejszej ustawy rok podatkowy jest tożsamy z rokiem kalendarzowym.
 ### Art. 3. [wyłączenia]
 
 1. Przepisów ustawy nie stosuje się do:
-   1. przychodów z działalności rolniczej oraz leśnej
+   1. przychodów z działalności rolniczej oraz leśnej;
    2. przychodów z działalności gospodarczej;
    3. przychodów z kapitałów pieniężnych;
    4. spadków i darowizn;
    5. przychodów z tytułu zmiany małżeńskiego ustroju majątkowego;
-   6. przychodów wynikających z czynności, które nie mogą być przedmiotem prawnie skutecznej umowy.
-2. Przepisów niniejszej ustawy nie stosuje się również do dochodów, które zostały opodatkowane odmiennie lub zwolnione z opodatkowania na gruncie innych ustaw.
+   6. przychodów wynikających z czynności, które nie mogą być przedmiotem prawnie skutecznej umowy;
+   7. dochodów, które zostały opodatkowane odmiennie lub zwolnione z opodatkowania na gruncie innych ustaw.
 
 ### Art. 4. [rezydencja]
 
-1. Osoby fizyczne, jeżeli mają miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, podlegają obowiązkowi podatkowemu od całości swoich dochodów (przychodów) bez względu na miejsce położenia źródeł przychodów (nieograniczony obowiązek podatkowy).
+1. Osoby fizyczne, mające miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, podlegają obowiązkowi podatkowemu od całości swoich dochodów (przychodów) bez względu na miejsce położenia źródeł przychodów (nieograniczony obowiązek podatkowy).
 2. Za osobę mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej uważa się osobę fizyczną, która:
    1. posiada na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodek interesów życiowych) lub
    2. przebywa na terytorium Rzeczypospolitej Polskiej dłużej niż 183 dni w roku podatkowym.
-3. Osoby fizyczne, jeżeli nie mają na terytorium Rzeczypospolitej Polskiej miejsca zamieszkania, podlegają obowiązkowi podatkowemu tylko od dochodów (przychodów) osiąganych na terytorium Rzeczypospolitej Polskiej (ograniczony obowiązek podatkowy).
+3. Osoby fizyczne, niemające miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, podlegają obowiązkowi podatkowemu tylko od dochodów (przychodów) osiąganych na terytorium Rzeczypospolitej Polskiej (ograniczony obowiązek podatkowy).
 
 ### Art. 5. [wspólne rozliczenie]
 
-1. Małżonkowie podlegający obowiązkowi podatkowemu na mocy niniejszej ustawy, mogą na zgodny wniosek wspólnie rozliczyć osiągnięte dochody.
+1. Małżonkowie podlegający obowiązkowi podatkowemu na mocy niniejszej ustawy, mogą wspólnie rozliczyć osiągnięte dochody.
 2. Dochody małoletnich dzieci własnych i przysposobionych podlegają odrębnemu opodatkowaniu.
 3. Zasady i sposób opodatkowania, o którym mowa w ust. 1, ma zastosowanie również do osoby samotnie wychowującej dzieci:
    1. małoletnie;
@@ -97,7 +97,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 ### Art. 13. [okres karencji]
 
-1. W przypadku odpłatnego zbycia, nabytych w drodze spadku, rzeczy lub praw majątkowych, okres, o którym mowa w art. 11, liczy się od końca roku kalendarzowego, w którym nastąpiło nabycie rzeczy lub prawa majątkowego przez spadkodawcę.
+1. W przypadku odpłatnego zbycia rzeczy lub praw majątkowych nabytych w drodze spadku, okres, o którym mowa w art. 11, liczy się od końca roku kalendarzowego, w którym nastąpiło nabycie rzeczy lub prawa majątkowego przez spadkodawcę.
 2. W przypadku odpłatnego zbycia po ustaniu wspólności majątkowej małżeńskiej, nabytych do majątku wspólnego małżonków w trakcie trwania wspólności majątkowej małżeńskiej rzeczy lub praw majątkowych, określonych w art. 11, okres, o którym mowa w tym przepisie, liczy się od końca roku kalendarzowego, w którym nastąpiło ich nabycie do majątku wspólnego małżonków w trakcie trwania wspólności majątkowej małżeńskiej.
 3. Nie stanowi nabycia albo odpłatnego zbycia, o którym mowa w art. 11, odpowiednio nabycie albo odpłatne zbycie, w drodze działu spadku, rzeczy lub praw majątkowych do wysokości przysługującego podatnikowi udziału w spadku.
 
@@ -118,7 +118,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 ### Art. 16. [ulga dla młodych]
 
-1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty dwudziestocztero krotności minimalnego wynagrodzenia za pracę o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
+1. Zwalnia się przychody podlegające pod opodatkowanie na mocy niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty dwudziestocztero krotności minimalnego wynagrodzenia za pracę o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
 2. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
 
 ### Art. 17. [ulga na dzieci]
@@ -136,7 +136,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 ### Art. 18. [ulga na rehabilitację]
 
-1. Od podstawy opodatkowania podatnik będący osobą niepełnosprawną lub podatnik, na którego utrzymaniu są osoby niepełnosprawne ma prawo odliczyć wydatki poniesione na cele rehabilitacyjne.
+1. Od podstawy opodatkowania podatnik będący osobą niepełnosprawną lub podatnik, na którego utrzymaniu są osoby niepełnosprawne, ma prawo odliczyć wydatki poniesione na cele rehabilitacyjne.
 2. Minister właściwy do spraw finansów w porozumieniu z ministrem właściwym do spraw zdrowia określa, w drodze rozporządzenia, katalog wydatków, o których mowa w ust. 1, kierując się w szczególności ułatwieniem wykonywania czynności życiowych przez osoby niepełnosprawne.
 3. Odliczeniu nie podlegają wydatki w takiej części, w jakiej zostały zwrócone podatnikowi w jakiejkolwiek formie.
 4. Warunkiem odliczenia wydatków, o których mowa w ust. 2, jest posiadanie przez osobę, której dotyczy wydatek:
@@ -146,7 +146,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 ### Art. 19. [ulga dla emerytów]
 
-1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika po ukończeniu wieku emerytalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty dwudziestocztero krotności minimalnego wynagrodzenia za pracę o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, pod warunkiem niepobierania przez tegoż podatnika świadczenia emerytalnego.
+1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika po ukończeniu wieku emerytalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty dwudziestocztero krotności minimalnego wynagrodzenia za pracę o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, pod warunkiem niepobierania przez tego podatnika świadczenia emerytalnego.
 2. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
 
 ### Art. 20. [ulga kredytowa]
