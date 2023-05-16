@@ -1,0 +1,5 @@
+print("Jest nagroda pół miliona funtów dla człowieka, który wskaże cień dowodu, że ...")
+print("...")
+print("No po prostu nie wiedział, proszę sobie wyborazić!")
+print("No znaczy wiedział, albo nie wiedział, ja nie wiem czy wie")
+print("Ale istnieje ogromna możliwość, że nie wiedział")
