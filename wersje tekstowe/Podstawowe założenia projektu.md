@@ -4,7 +4,7 @@ Dotychczas ustawa o podatku dochodowym od osób fizycznych w połączeniu z usta
 
 Podstawowe założenie regulacji to niskie i proste podatki, automatyzacja rozliczeń, zachęcanie do inwestycji i przedsiębiorczości, a także wsparcie młodych i seniorów na rynku pracy. Poniżej znajduje się wylistowany szczegółowy opis najistotniejszych zmian.
 
-- **Podniesienie kwoty wolnej od podatku do dwunastokrotności minimalnej.**
+- **Podniesienie kwoty wolnej od podatku do dwunastokrotności płacy minimalnej.**
 
 Kwota wolna od podatku jest kluczowa z punktu widzenia najbiedniejszych oraz wchodzących na rynek pracy. Sztywna kwota wolna w kontekście galopującej inflacji i postępujących zmian na rynku pracy jest narzędziem politycznym. Jest jak jałmużna, którą ustawodawca może dać, albo może nie dać, niezależnie od obiektywnych zmiennych. Pora z tym skończyć - wyższa, uzależniona od płacy minimalnej kwota wolna, jest gwarantem tego, że będzie ona stabilnie rosnąć, wraz z zarobkami Polaków - przestanie być w pełni zależnym od woli polityków narzędziem.
 
@@ -88,9 +88,7 @@ Podatek zryczałtowany cieszy się coraz większą popularnością. To dobry tre
 
 Obecnie istnieją regulacje, które ograniczają możliwość wyboru formy opodatkowania w zależności od tego czy i jak opodatkowaną i w jakiej branży działalność prowadzi nasz małżonek. To zbędne ograniczenia - działalność gospodarcza małżonka nie powinna ograniczać naszego wyboru w zakresie formy opodatkowania własnej działalności.
 
-- **Brak definicji przedsiębiorcy w ustawach podatkowych - domyślne stosowanie tej z ustawy prawo przedsiębiorców (ujednolicenie definicji - z wyjątkiem ustawy**
-
-**o VAT, gdzie definicja wynika wprost z dyrektywy).**
+- **Brak definicji przedsiębiorcy w ustawach podatkowych - domyślne stosowanie tej z ustawy prawo przedsiębiorców (ujednolicenie definicji - z wyjątkiem ustawy o VAT, gdzie definicja wynika wprost z dyrektywy).**
 
 Wiele ustaw podatkowych i pozapodatkowych obecnie ma nieco inną definicję działalności gospodarczej czy przedsiębiorcy. Należy z tym skończyć, gdyż niespójności te prowadzą do problemów z wykładnią i stosowaniem prawa. W Polsce już istnieje ustawa prawo przedsiębiorców, która kompleksowo pochyla się nad takimi zagadnieniami. Należy w sposób domyślny przyjąć jej zastosowanie w kontekście definicyjnym, a z ustaw podatkowych (z wyjątkiem ustawy o VAT) usunąć definicję przedsiębiorcy, posługując się wprost już istniejącymi poza prawem podatkowym ustawami.
 
