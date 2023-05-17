@@ -74,10 +74,10 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 
 1. Podatek od dochodu wynosi 12% podstawy obliczenia podatku.
 1. Podstawą obliczenia podatku, o której mowa w ust. 1, stanowi przychód pomniejszony o koszty uzyskania przychodu.
-1. Podstawę opodatkowania pomniejsza się o dwunastokrotność minimalnego wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
-1. Przy ustalaniu kwoty zmniejszenia, o którym mowa w ust. 3, uwzględnia się kwoty z art. 9 ust. 2 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych.
-1. Podatnicy podatku od dochodu mogą rozliczyć się wspólnie na zasadach określonych w art. 5 ust. 1 i 3 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych.
-1. Podatnikom podatku od dochodu, przysługuje prawo do rozliczenia ulg, o których mowa w Rozdziale 5 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych.
+3. Podstawę opodatkowania pomniejsza się o dwunastokrotność minimalnego wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
+4. Podatnicy podatku od dochodu mogą rozliczyć się wspólnie na zasadach określonych w art. 5 ust. 1 i 3-4 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych.
+5. Podatnikom podatku od dochodu, przysługuje prawo do rozliczenia ulg, o których mowa w Rozdziale 5 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych.
+6. Odliczenia, o których mowa w ust. 3-5, stosuje w takiej części, w jakiej nie zostały uwzględnione przy rozliczeniu dochodów na podstawie innych ustaw.
 
 ### Art. 11. [koszty uzyskania przychodu]
 
