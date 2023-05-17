@@ -81,7 +81,7 @@ Głowną różnicą między Issue, a Pull Request jest to, że do stworzenia Pul
 * Jeżeli wyskoczy komunikat "Sorry, it looks like your fork is outdated!", naciśnij "Update your fork".
 * Wprowadź zmiany.
 * W prawym górnym rogu widoku pliku znajduje się zielony przycisk "Commit changes...". Jeżeli skończyłeś edytować, naciśnij go.
-* W oknie "Commit message" dajemy opis tak zwanego commita. Commity to zmiany, między którymi można przechodzić. Commitów w PR może być wiele. Napisz tam prostą, klarnowną wiadomość czego dotyczą twoje zmiany. Przykładowo może to być "Zaktualizuj Art. 2. rok podatkowy".
+* W oknie "Commit message" dajemy opis tak zwanego commita. Commity to zmiany, między którymi można przechodzić. Commitów w PR może być wiele. Napisz tam prostą, klarnowną wiadomość czego dotyczą twoje zmiany. Przykładowo może to być "Zaktualizuj Art. 2. rok podatkowy". W miarę możliwości pisz commity po polsku.
 * W oknie "Extended description" możesz dać bardziej szczegółowy opis zmian.
 * Naciśnij "Propose changes".
 * Naciśnij "Create pull request".
