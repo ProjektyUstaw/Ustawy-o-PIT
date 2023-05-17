@@ -3,6 +3,6 @@ Dotychczas ustawa o podatku dochodowym od osób fizycznych w połączeniu z usta
 
 Podstawowe założenie regulacji to niskie i proste podatki, automatyzacja rozliczeń, zachęcanie do inwestycji i przedsiębiorczości, a także wsparcie młodych i seniorów na rynku pracy.
 
-## Jak używać Github i współtworzyć ustawę o PIT
+## Jak używać platformy GitHub i współtworzyć ustawę o PIT
 
 Zawsze doceniamy wkład społeczności. [Kliknij tutaj](CONTRIBUTING.md), aby wyświetlić plik, który pomoże ci zrozumieć jak działa platforma GitHub oraz jak z niej korzystać, aby pomóc w rozwoju projektu.

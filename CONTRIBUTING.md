@@ -59,7 +59,7 @@ Po zgłoszeniu:
 
 ## Przeglądanie zmian innych
 
-* Przejdź do https://github.com/ProjektyUstaw/Ustawy-o-PIT/pulls.
+* Przejdź do zakładki [pull requests](https://github.com/ProjektyUstaw/Ustawy-o-PIT/pulls).
 * Znajdź i wejdź w zmianę, która cię interesuje.
 * Wejdź w zakładkę "Files changed", aby przejrzeć zaproponowane zmiany. Po lewej stronie znajduje się poprzednia wersja pliku, po prawej stronie znajdują się zmiany, które zaproponował dany użytkownik.
 * Możesz komentować propozycje naciskając na guzik niebieskiego plusa obok tekstu. 
@@ -76,7 +76,7 @@ Głowną różnicą między Issue, a Pull Request jest to, że do stworzenia Pul
 
 ### Używając platformy GitHub
 
-* Na głównej stronie projektu https://github.com/ProjektyUstaw/Ustawy-o-PIT wejdź w folder "wersje tekstowe", a następnie plik, który chcesz edytować. W prawym górnym rogu widoku pliku, znajduję się guzik "Fork this repository and edit the file" w kształcie ołówka. Naciśnij go.
+* Na [głównej stronie projektu](https://github.com/ProjektyUstaw/Ustawy-o-PIT) wejdź w folder "wersje tekstowe", a następnie plik, który chcesz edytować. W prawym górnym rogu widoku pliku, znajduję się guzik "Fork this repository and edit the file" w kształcie ołówka. Naciśnij go.
 * Wyskoczy komunikat "You need to fork this repository to propose changes.". Naciśnij "Fork this repository".
 * Jeżeli wyskoczy komunikat "Sorry, it looks like your fork is outdated!", naciśnij "Update your fork".
 * Wprowadź zmiany.
