@@ -5,4 +5,4 @@ Podstawowe założenie regulacji to niskie i proste podatki, automatyzacja rozli
 
 ## Jak używać Github i współtworzyć ustawę o PIT
 
-Zawsze doceniamy wkład społeczności. [Kliknij tutaj](CONTRIBUTING.md), aby wyświetlić plik, który pomoże ci zrozumieć jak działa platforma Github oraz jak z niej korzystać, aby pomóc w rozwoju projektu.
+Zawsze doceniamy wkład społeczności. [Kliknij tutaj](CONTRIBUTING.md), aby wyświetlić plik, który pomoże ci zrozumieć jak działa platforma GitHub oraz jak z niej korzystać, aby pomóc w rozwoju projektu.
