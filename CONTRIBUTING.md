@@ -20,7 +20,7 @@ Czekamy na ciebie z niecierpliwością. 🙌🏾✨
 
 ## Przeglądanie plików
 
-* Na [głównej stronie projektu](https://github.com/ProjektyUstaw/Ustawy-o-PIT) u góry widnieją wszystkie pliki dodane w repozytorium. Po kliknięciu na jeden z nich (np. "Podstawowe założenia projektu.pdf") zobaczysz plik PDF z aktualną jego zawartością. W prawym górnym rogu widoku pliku znajduje się przycisk "Download raw file". Dzięki niemu możesz pobrać plik bezpośrednio na swój komputer, jeżeli chcesz go przeczytać używając innego programu. 
+* Na [głównej stronie projektu](https://github.com/ProjektyUstaw/Ustawy-o-PIT) u góry widnieją wszystkie pliki dodane w repozytorium. Po kliknięciu na jeden z nich (np. "Podstawowe założenia projektu.pdf") zobaczysz plik PDF z aktualną jego zawartością. W prawym górnym rogu widoku pliku znajduje się przycisk `Download raw file`. Dzięki niemu możesz pobrać plik bezpośrednio na swój komputer, jeżeli chcesz go przeczytać używając innego programu. 
 * Na głównej stronie projektu znajduje się też folder "wersje tekstowe", gdzie prezentowana jest ta sama zawartość w innym rozszerzeniu pliku (.md zamiast .pdf). Jeżeli będziesz chciał pomóc w rozwoju projektu, to właśnie te pliki będziesz mógł edytować.
 
 ## Zakładanie konta na platformie GitHub
@@ -76,19 +76,19 @@ Głowną różnicą między Issue, a Pull Request jest to, że do stworzenia Pul
 
 ### Używając platformy GitHub
 
-* Na [głównej stronie projektu](https://github.com/ProjektyUstaw/Ustawy-o-PIT) wejdź w folder "wersje tekstowe", a następnie plik, który chcesz edytować. W prawym górnym rogu widoku pliku, znajduję się guzik "Fork this repository and edit the file" w kształcie ołówka. Naciśnij go.
-* Wyskoczy komunikat "You need to fork this repository to propose changes.". Naciśnij "Fork this repository".
-* Jeżeli wyskoczy komunikat "Sorry, it looks like your fork is outdated!", naciśnij "Update your fork".
+* Na [głównej stronie projektu](https://github.com/ProjektyUstaw/Ustawy-o-PIT) wejdź w folder "wersje tekstowe", a następnie plik, który chcesz edytować. W prawym górnym rogu widoku pliku, znajduję się guzik `Fork this repository and edit the file` w kształcie ołówka. Naciśnij go.
+* Wyskoczy komunikat "You need to fork this repository to propose changes.". Naciśnij `Fork this repository`.
+* Jeżeli wyskoczy komunikat "Sorry, it looks like your fork is outdated!", naciśnij `Update your fork`.
 * Wprowadź zmiany.
-* W prawym górnym rogu widoku pliku znajduje się zielony przycisk "Commit changes...". Jeżeli skończyłeś edytować, naciśnij go.
+* W prawym górnym rogu widoku pliku znajduje się zielony przycisk `Commit changes...`. Jeżeli skończyłeś edytować, naciśnij go.
 * W oknie "Commit message" dajemy opis tak zwanego commita. Commity to zmiany, między którymi można przechodzić. Commitów w PR może być wiele. Napisz tam prostą, klarnowną wiadomość czego dotyczą twoje zmiany. Przykładowo może to być "Zaktualizuj Art. 2. rok podatkowy". W miarę możliwości pisz commity po polsku.
 * W oknie "Extended description" możesz dać bardziej szczegółowy opis zmian.
-* Naciśnij "Propose changes".
-* Naciśnij "Create pull request".
+* Naciśnij `Propose changes`.
+* Naciśnij `Create pull request`.
 * Wyskoczy okno opisu PR. Tytuł będzie się wyświetlał dla wszystkich użytkowników, postaraj się dobrze i zwięźle opisać wykonane zmiany. 
 * Możesz również dodać bardziej szczegółowy opis PR w większym oknie poniżej. Jeśli Twój PR jest powiązany z otwartym problemem (Issue), dodaj w opisie swojego PR linijkę zawierającą `Fixes: #123`, gdzie `#123` to numer Issue, którym się zajmujesz.
 * Pozostaw zaznaczone "Allow edits by maintainers".
-* Naciśnij "Create pull request".
+* Naciśnij `Create pull request`.
 * Gratulacje, twoje propozycje zostały zaproponowane. Jeżeli chcesz się z nich wycofać, wystarczy, że naciśniesz przycisk `Close pull request` na dole widoku PR.
 
 Po złożeniu PR:
