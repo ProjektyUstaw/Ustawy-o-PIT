@@ -50,10 +50,9 @@ Przychodów (dochodów) opodatkowanych na podstawie niniejszej ustawy nie łącz
 
 ### Art. 7. [limit obrotu]
 
-1. Prawo do wyboru ryczałtu od przychodów przysługuje podatnikom rozpoczynającym działalność gospodarczą oraz tym, którzy w poprzednim roku podatkowym nie przekroczyli 10 mln euro przychodu.
+1. Prawo do wyboru ryczałtu od przychodów przysługuje podatnikom rozpoczynającym działalność gospodarczą oraz tym, którzy w poprzednim roku podatkowym nie przekroczyli 50 milionów złotych przychodu.
 1. Do limitu z ust. 1 nie wlicza się należnego podatku od towarów i usług.
 1. Limit z ust. 1 ma zastosowanie dla sumy przychodów osiągniętych przez wspólników danej spółki, jednak nie dla sumy przychodów osiągniętych przez wspólnika więcej niż jednej spółki.
-1. Dla obliczenia limitu z ust. 1 przyjmuje się kurs średni Narodowego Banku Polskiego z pierwszego dnia roboczego października roku poprzedzającego rok podatkowy, w którym podatnik chce kontynuować lub wybrać opodatkowanie podatkiem ryczałtowym.
 
 ### Art. 8. [ewidencja]
 
