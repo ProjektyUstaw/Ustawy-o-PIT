@@ -4,7 +4,7 @@
 
 * [Wstęp](#wstęp)
 * [Przeglądanie plików](#przeglądanie-plików)
-* [Założenie konta na GitHub](#założenie-konta-na-Github)
+* [Założenie konta na platformie GitHub](#założenie-konta-na-platformie-GitHub)
 * [Poproś o wsparcie](#poproś-o-wsparcie)
 * [Zgłoś błąd lub poprawki](#zgłoś-błąd-lub-poprawki)
 * [Przeglądanie zmian innych](#przeglądanie-zmian-innych)
@@ -12,7 +12,7 @@
 
 ## Wstęp
 
-Dziękujemy bardzo za zainteresowanie wkładem własnym do uproszczenia i obniżenia podatków!. Doceniamy wszelki rodzaj zaangażowania i zachęcamy do aktywności. Poniżej dowiesz się jak korzystać z platformy Github i szczegółów dotyczących tego jak pomóc w rozwoju nowej ustawy o podatku dochodowym! 📝
+Dziękujemy bardzo za zainteresowanie wkładem własnym do uproszczenia i obniżenia podatków!. Doceniamy wszelki rodzaj zaangażowania i zachęcamy do aktywności. Poniżej dowiesz się jak korzystać z platformy GitHub i szczegółów dotyczących tego jak pomóc w rozwoju nowej ustawy o podatku dochodowym! 📝
 
 Przed dokonaniem swojego wkładu, upewnij się, że przeczytałeś odpowiednią sekcję! Ułatwi to pracę nam, osobom odpowiedzialnym za utrzymanie projektu, oraz umili doświadczenie wszystkim zaangażowanym. 💚
 
@@ -23,9 +23,9 @@ Czekamy na ciebie z niecierpliwością. 🙌🏾✨
 * Na [głównej stronie projektu](https://github.com/ProjektyUstaw/Ustawy-o-PIT) u góry widnieją wszystkie pliki dodane w repozytorium. Po kliknięciu na jeden z nich (np. "Podstawowe założenia projektu.pdf") zobaczysz plik PDF z aktualną jego zawartością. W prawym górnym rogu widoku pliku znajduje się przycisk "Download raw file". Dzięki niemu możesz pobrać plik bezpośrednio na swój komputer, jeżeli chcesz go przeczytać używając innego programu. 
 * Na głównej stronie projektu znajduje się też folder "wersje tekstowe", gdzie prezentowana jest ta sama zawartość w innym rozszerzeniu pliku (.md zamiast .pdf). Jeżeli będziesz chciał pomóc w rozwoju projektu, to właśnie te pliki będziesz mógł edytować.
 
-## Założenie konta w serwisie GitHub
+## Założenie konta na platformie GitHub
 
-Pierwsze co powinieneś zrobić, aby dodać swój wkład, to założyć konto na platformie Github. Jest to bardzo znane i lubiane narzędzie przez ludzi z branży IT. Odchodzimy od archaicznego podejścia do rozwoju polegającego na wrzuceniu pliku PDF do sieci i czekaniu na komentarze w emailach.
+Pierwsze co powinieneś zrobić, aby dodać swój wkład, to założyć konto na platformie GitHub. Jest to bardzo znane i lubiane narzędzie przez ludzi z branży IT. Odchodzimy od archaicznego podejścia do rozwoju polegającego na wrzuceniu pliku PDF do sieci i czekaniu na komentarze w emailach.
 GitHub pozwala na przetrzymywanie wielu wersji tego samego pliku, edycję plików przez wielu ludzi na raz oraz dyskusje na temat kierunku rozwoju projektu.
 
 * Załóż konto klikając [tutaj.](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
