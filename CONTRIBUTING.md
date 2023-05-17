@@ -4,9 +4,9 @@
 
 * [Wstęp](#wstęp)
 * [Przeglądanie plików](#przeglądanie-plików)
-* [Założenie konta na platformie GitHub](#założenie-konta-na-platformie-GitHub)
-* [Poproś o wsparcie](#poproś-o-wsparcie)
-* [Zgłoś błąd lub poprawki](#zgłoś-błąd-lub-poprawki)
+* [Zakładanie konta na platformie GitHub](#zakładanie-konta-na-platformie-GitHub)
+* [Proszenie o wsparcie](#proszenie-o-wsparcie)
+* [Zgłaszanie błędu lub poprawki](#zgłaszanie-błędu-lub-poprawki)
 * [Przeglądanie zmian innych](#przeglądanie-zmian-innych)
 * [Wnioskowanie o zmiany](#wnioskowanie-o-zmiany)
 
@@ -23,14 +23,14 @@ Czekamy na ciebie z niecierpliwością. 🙌🏾✨
 * Na [głównej stronie projektu](https://github.com/ProjektyUstaw/Ustawy-o-PIT) u góry widnieją wszystkie pliki dodane w repozytorium. Po kliknięciu na jeden z nich (np. "Podstawowe założenia projektu.pdf") zobaczysz plik PDF z aktualną jego zawartością. W prawym górnym rogu widoku pliku znajduje się przycisk "Download raw file". Dzięki niemu możesz pobrać plik bezpośrednio na swój komputer, jeżeli chcesz go przeczytać używając innego programu. 
 * Na głównej stronie projektu znajduje się też folder "wersje tekstowe", gdzie prezentowana jest ta sama zawartość w innym rozszerzeniu pliku (.md zamiast .pdf). Jeżeli będziesz chciał pomóc w rozwoju projektu, to właśnie te pliki będziesz mógł edytować.
 
-## Założenie konta na platformie GitHub
+## Zakładanie konta na platformie GitHub
 
 Pierwsze co powinieneś zrobić, aby dodać swój wkład, to założyć konto na platformie GitHub. Jest to bardzo znane i lubiane narzędzie przez ludzi z branży IT. Odchodzimy od archaicznego podejścia do rozwoju polegającego na wrzuceniu pliku PDF do sieci i czekaniu na komentarze w emailach.
 GitHub pozwala na przetrzymywanie wielu wersji tego samego pliku, edycję plików przez wielu ludzi na raz oraz dyskusje na temat kierunku rozwoju projektu.
 
 * Załóż konto klikając [tutaj.](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
-## Poproś o wsparcie
+## Proszenie o wsparcie
 
 Jeśli masz pytanie dotyczące tego projektu lub potrzebujesz wyjaśnienia czegoś:
 
@@ -42,14 +42,14 @@ Po zgłoszeniu:
 * Ktoś postara się jak najszybciej odpowiedzieć.
 * Jeżeli to ty komuś odpowiadasz, bądź uprzejmy w swoich wiadomościach.
 
-## Zgłoś błąd lub poprawki
+## Zgłaszanie błędu lub poprawki
 
 Jeśli napotkasz błąd w projekcie, lub chcesz zaproponować poprawki:
 
 * Wejdź w zakładkę [problem](https://github.com/ProjektyUstaw/Ustawy-o-PIT/issues) (issue) i sprawdź czy ktoś już nie otworzył podobnego zgłoszenia.
 * Jeżeli podobne zgłoszenie już istnieje, możesz dodawać pod nim swoje komentarze oraz reagować na komentarze już istniejące.
 * Jeżeli podobne zgłoszenie nie istnieje, [otwórz nowy problem](https://github.com/ProjektyUstaw/Ustawy-o-PIT/issues). Zrobisz to klikając w zielony guzik `New issue` po prawej stronie.
-* Podaj jak najwięcej informacji na temat napotkanego problemu lub poprawki. Proszę, staraj się być jasny dlaczego istniejące zapisy nie spełniają według ciebie twoich potrzeb.
+* Podaj jak najwięcej informacji na temat napotkanego problemu lub poprawki. Proszę, staraj się wyjaśnić precyzyjnie dlaczego istniejące zapisy nie spełniają założeń projektu.
 
 Po zgłoszeniu:
 
@@ -95,5 +95,5 @@ Po złożeniu PR:
 
 * Jedna lub więcej osób odpowiedzialnych za projekt przejrzy twoją propozycję. Może ją zaakceptować, odrzucić, lub dodać komentarz.
 * Jeśli osoba odpowiedzialna za utrzymanie poprosi o jakieś zmiany, dokonaj tych zmian, wykonaj push i poproś o kolejną recenzję.
-* Jeśli osoba odpowiedzialna za utrzymanie zdecyduje, że nie zaakceptuje Twojego PR, podziękują Ci za kontrybucję i wyjaśnią, dlaczego nie przyjmują zmian. To w porządku! Bardzo doceniamy Twój wkład i nie lekceważymy go.
-* Jeśli Twój PR zostanie zaakceptowany, zostanie to oznaczone, a następnie scalone z odpowiednim plikiem. Twoja kontrybucja zostanie rozpowszechniona wśród użytkowników i zostanie oznaczona wersją np. v1.0, v1.1 itd.
+* Jeśli osoba odpowiedzialna za utrzymanie zdecyduje, że nie zaakceptuje Twojego PR, podziękują Ci za poprawki i wyjaśnią, dlaczego nie przyjmują zmian. To w porządku! Bardzo doceniamy Twój wkład i nie lekceważymy go.
+* Jeśli Twój PR zostanie zaakceptowany, zostanie to oznaczone, a następnie scalone z odpowiednim plikiem. Twój wkład zostanie rozpowszechniony wśród użytkowników i zostanie oznaczony wersją np. v1.0, v1.1 itd.
