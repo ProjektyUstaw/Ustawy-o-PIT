@@ -6,10 +6,10 @@
 
 1. Ustawa reguluje opodatkowanie osób fizycznych prowadzących działalność gospodarczą w formie:
    1) ryczałtu od przychodu;
-   1) podatku od dochodu.
-1. O wyborze formy opodatkowania podatnik zawiadamia naczelnika właściwego miejscowo urzędu skarbowego, do końca miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu w roku podatkowym.
-1. W przypadku niezłożenia przez podatnika zawiadomienia, o którym mowa w ust. 2, zawiadomienie złożone uprzednio pozostaje w mocy.
-1. Przepisy ustawy stosuje się z uwzględnieniem umów w sprawie unikania podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Przepis art. 10 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych stosuje się odpowiednio.
+   2) podatku od dochodu.
+3. O wyborze formy opodatkowania podatnik zawiadamia naczelnika właściwego miejscowo urzędu skarbowego, do końca miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu w roku podatkowym.
+4. W przypadku niezłożenia przez podatnika zawiadomienia, o którym mowa w ust. 2, zawiadomienie złożone uprzednio pozostaje w mocy.
+5. Przepisy ustawy stosuje się z uwzględnieniem umów w sprawie unikania podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Przepis art. 10 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych stosuje się odpowiednio.
 
 ### Art. 2. [rok podatkowy]
 
@@ -40,12 +40,13 @@ Przychodów (dochodów) opodatkowanych na podstawie niniejszej ustawy nie łącz
 ### Art. 6. [stawki podatku]
 
 1. Ryczałt od przychodów wynosi:
-1) 8% z tytułu działalności usługowej;
-1) 3% z działalności wytwórczej i handlowej.
-
-   2. Podatek, o którym mowa w ust. 1, pobiera się bez pomniejszania przychodu o koszty jego uzyskania.
-   2. Metoda opodatkowania, o której mowa w ust. 1, ma zastosowanie wyłącznie w sytuacji, gdy wszyscy wspólnicy danej spółki wybrali ryczałt od przychodów jako formę opodatkowania, a spółka jest transparentna podatkowo.
-   2. Przez działalność usługową rozumie się również działalność sportowców i artystów, którzy wybiorą rozliczenie swoich przychodów jako przychodów z działalności gospodarczej.
+    1) 8% z tytułu działalności usługowej;
+    2) 3% z działalności wytwórczej i handlowej.
+2. Podatek, o którym mowa w ust. 1, pobiera się bez pomniejszania przychodu o koszty jego uzyskania.
+3. Metoda opodatkowania, o której mowa w ust. 1, ma zastosowanie wyłącznie w sytuacji, gdy wszyscy wspólnicy danej spółki wybrali ryczałt od przychodów jako formę opodatkowania, a spółka jest transparentna podatkowo.
+4. Działalności, o których mowa w ust. 1, należy rozumieć zgodnie z Polską Klasyfikacją Wyrobów i Usług (PKWiU) wprowadzoną rozporządzeniem Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU), z zastrzeżeniem ust. 5-6. 
+5. Działalność wytwórcza nie obejmuje wytwarzania wyrobów na indywidualne zamówienie.
+6. Przez działalność usługową rozumie się również działalność sportowców i artystów, którzy wybiorą rozliczenie swoich przychodów jako przychodów z działalności gospodarczej.
 
 ### Art. 7. [limit obrotu]
 
