@@ -84,7 +84,7 @@ Minister właściwy do spraw finansów określi, w drodze rozporządzenia:
 1. Kosztami uzyskania przychodów są koszty poniesione w celu osiągnięcia przychodów lub zachowania albo zabezpieczenia źródła przychodów.
 1. Podatnik ma prawo do rozliczenia kosztów uzyskania przychodu, o których mowa w ust. 1, w momencie dokonania płatności, z uwzględnieniem ust. 3-4.
 1. Koszty uzyskania przychodów bezpośrednio związane z przychodami są potrącalne w tym roku podatkowym, w którym osiągnięte zostały odpowiadające im przychody.
-1. W przypadku środków trwałych, wartości niematerialnych i prawnych oraz umowy leasingu, stosuje się odpowiednio przepisy ustawy z dnia 29 września 1994 r. o rachunkowości.
+4. W przypadku środków trwałych, wartości niematerialnych i prawnych oraz umowy leasingu, stosuje się odpowiednio ustawę z dnia 29 września 1994 r. o rachunkowości, przy czym przepisów dotyczących aktualizacji wyceny nie stosuje się.
 1. Kosztami uzyskania przychodów nie są:
 1) podatek dochodowy (przychodowy);
 1) wartość pracy własnej podatnika;
