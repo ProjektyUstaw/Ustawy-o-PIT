@@ -37,7 +37,8 @@ Wolne od podatku od zysków kapitałowych są:
 1) przychody (dochody) od środków pieniężnych zgromadzonych na lokacie bankowej podatnika;
 1) przychody (dochody) związane z dobrowolnym ubezpieczeniem emerytalnym, w szczególności poprzez Indywidualne Konta Emerytalne, Indywidualne Konta Zabezpieczenia Emerytalnego, Pracownicze Plany Kapitałowe, Pracownicze Programy Emerytalne;
 1) przychody (dochody) uzyskane z obligacji Skarbu Państwa;
-1) wartość wkładu niepieniężnego określona w umowie, statucie lub innym dokumencie o podobnym charakterze, jeżeli wkładem jest przedsiębiorstwo lub jego zorganizowana część, z zastrzeżeniem ust. 2.
+2) wartość udostępnionego przez podmiot finansujący kapitału;
+3) wartość wkładu niepieniężnego określona w umowie, statucie lub innym dokumencie o podobnym charakterze, jeżeli wkładem jest przedsiębiorstwo lub jego zorganizowana część, z zastrzeżeniem ust. 2.
 
 2\. Zwolnienie, o którym mowa w ust. 1 pkt 4, ma zastosowanie, jeżeli łącznie spełnione są następujące warunki:
 
