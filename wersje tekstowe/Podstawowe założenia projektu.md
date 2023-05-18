@@ -100,7 +100,7 @@ Wiele interpretacji bardzo niekorzystnie interpretowało sprzedaż ogółu praw 
 
 - **Możliwość rozliczenia odsetek jako kosztu udzielonej od wspólnika do spółki osobowej (do tej pory możliwe tylko w kapitałowych).**
 
-Kolejna dyskryminująca spółki osobowe regulacja dotyczyła odsetek od pożyczki. Wspólnicy nie mogli ich bowiem zaliczyć do kosztu uzyskania przychodu, w odróżnieniu od wspólników spółki kapitałowej. Podkreślić należy, że to w spółkach osobowych istnieje co do zasady większa odpowiedzialność za zobowiązania jest wyższa, niż w spółkach kapitałowych.
+Kolejna dyskryminująca spółki osobowe regulacja dotyczyła odsetek od pożyczki. Wspólnicy nie mogli ich bowiem zaliczyć do kosztu uzyskania przychodu, w odróżnieniu od wspólników spółki kapitałowej. Podkreślić należy, że to w spółkach osobowych istnieje co do zasady większa odpowiedzialność za zobowiązania niż w spółkach kapitałowych.
 
 - **Doprecyzowanie podatkowej sytuacji spółki cichej oraz konsorcjów.**
 
