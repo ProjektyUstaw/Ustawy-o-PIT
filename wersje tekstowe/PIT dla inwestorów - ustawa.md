@@ -168,7 +168,7 @@ Dochodem z odpłatnego zbycia walut wirtualnych jest osiągnięta w roku podatko
 
 1. Podatnicy są obowiązani składać urzędom skarbowym zeznanie, według ustalonego wzoru, o wysokości osiągniętego przychodu w roku podatkowym do dnia 30 kwietnia roku następującego po roku podatkowym.
 2. Przed upływem terminu określonego na złożenie zeznania podatnicy są obowiązani wpłacić kwotę podatku należnego, wynikającego z zeznania, o którym mowa w ust. 1.
-3. W zeznaniu, o którym mowa w ust. 1, podatnik wykazuje koszty uzyskania przychodów, o których mowa w art. 15, także wtedy, gdy w roku podatkowym nie uzyskał przychodów z odpłatnego zbycia walut wirtualnych.
+3. W zeznaniu, o którym mowa w ust. 1, podatnik wykazuje koszty uzyskania przychodów, o których mowa w art. 13, także wtedy, gdy w roku podatkowym nie uzyskał przychodów z odpłatnego zbycia walut wirtualnych.
 4. Minister właściwy do spraw finansów określa, w drodze rozporządzenia, wzory zeznań lub informacji składanych przez podatników lub płatników oraz kwestie techniczne z tym związane.
 
 ### Art. 20. [procent na OPP]
