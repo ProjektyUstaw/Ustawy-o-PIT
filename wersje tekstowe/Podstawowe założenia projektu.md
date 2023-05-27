@@ -62,7 +62,7 @@ Samochód jest niezbędnym narzędziem do prowadzenia biznesu i to bez względu 
 
 - **Uproszczenie przepisów dotyczących leasingu**
 
-Przepisy podatkowe w coraz większym stopniu nie pokrywają się przepisami bilansowymi. Nie jest to tylko utrudnienie dla osób zajmujących się rozliczeniem przedsiębiorców, ale też znaczna bariera przy pozyskiwaniu finansowania z zewnątrz, gdyż podmioty finansujące mają problem z realną oceną kondycji finansowej przedsiębiorstw na podstawie wyniku podatkowego. Zatem odesłanie do ustawy o rachunkowości w zakresie rozliczenia umowy leasingu czy dokonywania odpisów amortyzacji nie tylko ułatwi życie księgowym, także przyśpieszy proces pozyskiwania środków z zewnątrz.
+Przepisy podatkowe w coraz większym stopniu nie pokrywają się z przepisami bilansowymi. Nie jest to tylko utrudnienie dla osób zajmujących się rozliczeniem przedsiębiorców, ale też znaczna bariera przy pozyskiwaniu finansowania z zewnątrz, gdyż podmioty finansujące mają problem z realną oceną kondycji finansowej przedsiębiorstw na podstawie wyniku podatkowego. Zatem odesłanie do ustawy o rachunkowości w zakresie rozliczenia umowy leasingu czy dokonywania odpisów amortyzacji nie tylko ułatwi życie księgowym, także przyśpieszy proces pozyskiwania środków z zewnątrz.
 
 - **Mocno ograniczony katalog wyłączeń z kosztów uzyskania przychodów.**
 
@@ -152,5 +152,5 @@ Przepisy dotyczące sukcesji przedsiębiorstwa w kontekście ciągłości rozlic
 - Brak proporcjonalnej składki zdrowotnej, a jedynie zryczałtowana, dla przedsiębiorców może stanowić KUP.
 - ZUS dla przedsiębiorców dobrowolny, może stanowić KUP.
 - Ulga dla emerytów rozszerzona o składki ZUS - obecnie tylko brak podatku dochodowego, docelowo kalka z ulgi dla młodych dla osób uczących się.
-- Rozszerzenie definicji waluty wirtualnej w ustawie o AML o NFT czy tokeny i stosowanie jej na gruncie ustaw podatkowych
+- Rozszerzenie definicji waluty wirtualnej w ustawie o AML o NFT czy tokeny i stosowanie jej na gruncie ustaw podatkowych.
 - Zmiana definicji działalności gospodarczej w taki sposób, aby bez wątpienia obejmowała artystów i sportowców.
