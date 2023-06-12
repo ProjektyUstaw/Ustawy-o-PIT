@@ -103,7 +103,7 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 ### Art. 14. [podstawa obliczenia podatku]
 
-1. Podstawą obliczenia podatku, jest dochód stanowiący różnicę pomiędzy przychodem z odpłatnego zbycia rzeczy lub praw majątkowych, a udokumentowanymi kosztami nabycia lub poniesionymi nakładami na poszczególne rzeczy lub prawa.
+1. Podstawą obliczenia podatku jest dochód stanowiący różnicę pomiędzy przychodem z odpłatnego zbycia rzeczy lub praw majątkowych, a udokumentowanymi kosztami nabycia lub poniesionymi nakładami na poszczególne rzeczy lub prawa.
 
 ### Art. 15. [wynajem prywatny]
 
