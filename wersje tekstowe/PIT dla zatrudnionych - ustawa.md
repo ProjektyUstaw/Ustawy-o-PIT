@@ -101,10 +101,9 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 2. W przypadku odpłatnego zbycia po ustaniu wspólności majątkowej małżeńskiej, nabytych do majątku wspólnego małżonków w trakcie trwania wspólności majątkowej małżeńskiej rzeczy lub praw majątkowych, określonych w art. 11, okres, o którym mowa w tym przepisie, liczy się od końca roku kalendarzowego, w którym nastąpiło ich nabycie do majątku wspólnego małżonków w trakcie trwania wspólności majątkowej małżeńskiej.
 3. Nie stanowi nabycia albo odpłatnego zbycia, o którym mowa w art. 11, odpowiednio nabycie albo odpłatne zbycie, w drodze działu spadku, rzeczy lub praw majątkowych do wysokości przysługującego podatnikowi udziału w spadku.
 
-### Art. 14. [wysokość podatku]
+### Art. 14. [podstawa obliczenia podatku]
 
-1. Od dochodu z odpłatnego zbycia rzeczy i praw majątkowych podatek dochodowy wynosi 12% podstawy obliczenia podatku.
-2. Podstawą obliczenia podatku, o której mowa w ust. 1, jest dochód stanowiący różnicę pomiędzy przychodem z odpłatnego zbycia rzeczy lub praw majątkowych, a udokumentowanymi kosztami nabycia lub poniesionymi nakładami.
+1. Podstawą obliczenia podatku jest dochód stanowiący różnicę pomiędzy przychodem z odpłatnego zbycia rzeczy lub praw majątkowych, a udokumentowanymi kosztami nabycia lub poniesionymi nakładami na poszczególne rzeczy lub prawa.
 
 ### Art. 15. [wynajem prywatny]
 
