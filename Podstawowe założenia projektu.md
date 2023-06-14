@@ -54,15 +54,15 @@ Wiele z istniejących dotychczas ulg podatkowych było skierowane do bardzo wąs
 
 Ulga kredytowa pozwoli łatwiej zaciągnąć i spłacić kredyt na jedną nieruchomość. Im droższy będzie kredyt, tym niższe będą podatki. Dzięki temu to w interesie rządzących pozostaną niskie odsetki i korzystne warunki kredytowania - im gorzej będą mieć kredytobiorcy, tym niższe będą wpływy do budżetu.
 
-### Liberalizacja przepisów dotyczących amortyzacji
+### Liberalizacja przepisów dotyczących amortyzacji.
 
 Jedną z najbardziej antyinwestycyjnych regulacji w Polsce są przepisy dotyczące amortyzacji środków trwałych. Sztywne reguły sprawiają, że niejednokrotnie faktycznie poniesiony wydatek rozkłada się na lata, czasem całe dekady. Przedsiębiorcy płacą podatki od pieniędzy, które wydali faktycznie, np. na linię montażową i produkcyjną, czy nową halę budowlaną. Zamiast kolejnych dotacji czy programów pomocowych, często dla zagranicznych korporacji, umożliwimy łatwiejsze rozliczenie inwestycji, w tym w budynki i budowle. Dziś, gdy czterdziestoletni przedsiębiorca postawi nową halę produkcyjną, w kosztach podatkowych rozliczy ją finalnie w wieku 80 lat, czyli piętnaście po przejściu na emeryturę.
 
-### Liberalizacja rozliczania samochodów osobowych w działalności gospodarczej
+### Liberalizacja rozliczania samochodów osobowych w działalności gospodarczej.
 
 Samochód jest niezbędnym narzędziem do prowadzenia biznesu i to bez względu na jego specyfikę. Obecne przepisy uniemożliwiają pełne rozliczenie wydatków ponoszonych na ten środek transportu. Jest to szczególnie dyskryminujące w porównaniu do innych środków transportu, np. samochody osobowe z tzw. kratką. Sprawia to, że przedsiębiorcy de facto muszą płacić podatek od wydatków eksploatacyjnych, pomimo ich niepodważalnego związku z prowadzoną działalności. W ramach reformy wydatki poniesione na samochód będą rozliczane jako koszty uzyskania przychodu na ogólnych zasadach. Ponadto likwidujemy limity odnoszące się do odliczenia w kosztach wartości pojazdu. Obecnie kwoty nie odzwierciedlają sytuacji społeczno-gospodarczej, np. zaostrzenia wymogów środowiskowych, galopującej inflacji czy wzrostu cen samochodów.
 
-### Uproszczenie przepisów dotyczących leasingu
+### Uproszczenie przepisów dotyczących leasingu.
 
 Przepisy podatkowe w coraz większym stopniu nie pokrywają się z przepisami bilansowymi. Nie jest to tylko utrudnienie dla osób zajmujących się rozliczeniem przedsiębiorców, ale też znaczna bariera przy pozyskiwaniu finansowania z zewnątrz, gdyż podmioty finansujące mają problem z realną oceną kondycji finansowej przedsiębiorstw na podstawie wyniku podatkowego. Zatem odesłanie do ustawy o rachunkowości w zakresie rozliczenia umowy leasingu czy dokonywania odpisów amortyzacji nie tylko ułatwi życie księgowym, także przyśpieszy proces pozyskiwania środków z zewnątrz.
 
