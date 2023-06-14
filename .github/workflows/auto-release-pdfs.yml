@@ -9,7 +9,7 @@ on:
     paths:
       - '*.md'
 jobs:
-  tag:
+  make_release:
     runs-on: ubuntu-latest
     env:
       PDF_DIR_NAME: Ustawy o PIT - PDF
@@ -59,7 +59,7 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ steps.tagger.outputs.new-tag }}
+          tag_name: "v${{ steps.tagger.outputs.new-tag }}"
           files: |
             ${{ env.PDF_DIR_NAME }}/*.pdf
             ustawy-o-pit-pdf.zip

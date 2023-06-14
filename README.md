@@ -1,4 +1,4 @@
-# Ustawy-o-PIT
+# Ustawy o PIT
 
 ## Pobierz najnowsze wersje PDF ustaw
 
