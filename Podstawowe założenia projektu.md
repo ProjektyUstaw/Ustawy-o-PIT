@@ -130,7 +130,7 @@ Ulga za złe długi jest mechanizmem, pozwalającym chronić się przed negatywn
 
 Jednym z winowajców pęcznienia ustawy, był bardzo często zmieniany katalog zwolnień przedmiotowych. Do dziś możemy znaleźć tam np.:
 
-*106) odszkodowania otrzymane na podstawie rezolucji Rady Bezpieczeństwa Narodów Zjednoczonych wypłacone osobom poszkodowanym na skutek działań wojennych w Kuwejcie;*
+> `106.` odszkodowania otrzymane na podstawie rezolucji Rady Bezpieczeństwa Narodów Zjednoczonych wypłacone osobom poszkodowanym na skutek działań wojennych w Kuwejcie
 
 Mówimy tutaj o konflikcie z lat 90-tych i prawdopodobnie bardzo wąskiej grupy odbiorców tego zwolnienia. Sztuczne i częste zmienianie ustawy obowiązującej wszystkich Polaków takimi przepisami, jest nie tylko szkodliwe, ale również nieracjonalne.
 
