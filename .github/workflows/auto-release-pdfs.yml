@@ -1,0 +1,65 @@
+# Automatycznie tworzy tag na najnowszym commicie,
+# generuje PDFy i ZIPa z PDFami,
+# w końcu publikuje z tych plików release na tagu.
+name: Release z generowanymi PDFami
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '*.md'
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    env:
+      PDF_DIR_NAME: Ustawy o PIT - PDF
+    strategy:
+      matrix:
+        node-version:
+          - 12
+    steps:
+      - name: Utworzenie git taga pod release
+        uses: phish108/autotag-action@v1.1.55
+        id: tagger
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN}}
+          with-v: true
+      - uses: actions/checkout@v3
+      - name: Aktualizacja dostępnych zależności
+        run: sudo apt-get update
+      - name: Instalacja LaTeX-a
+        run: sudo apt-get install -y texlive-latex-extra
+      - name: Instalacja Pandoc-a
+        run: sudo apt-get install -y pandoc
+      - name: Generowanie PDFów na podstawie plików Markdown
+        run: |
+          # Włącza wyświetlanie wykonywanych poleceń
+          set -x
+
+          mkdir "${{ env.PDF_DIR_NAME }}"
+
+          for md_file in ./*.md; do
+            # https://pandoc.org/MANUAL.html#layout
+            # https://pandoc.org/MANUAL.html#fonts
+            # https://texfaq.org/FAQ-hyphoff
+            # https://stackoverflow.com/a/76329457/666907
+            pandoc \
+              "${md_file}" \
+              --fail-if-warnings \
+              --pdf-engine pdflatex \
+              --variable geometry:a4paper \
+              --variable geometry:margin=2.5cm \
+              --variable fontsize=12pt \
+              --variable header-includes="\hyphenpenalty=10000" \
+              --variable header-includes="\exhyphenpenalty=10000" \
+              --output "${{ env.PDF_DIR_NAME }}/${md_file%.md}.pdf"
+          done
+
+          zip -r ustawy-o-pit-pdf.zip "${{ env.PDF_DIR_NAME }}"
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.tagger.outputs.new-tag }}
+          files: |
+            ${{ env.PDF_DIR_NAME }}/*.pdf
+            ustawy-o-pit-pdf.zip
