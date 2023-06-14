@@ -1,3 +1,4 @@
+name: Markdown lint
 on: [push, pull_request]
 
 jobs:
@@ -8,4 +9,4 @@ jobs:
       - uses: DavidAnson/markdownlint-cli2-action@v10
         with:
           globs: |
-            **/*.md
+            *.md
