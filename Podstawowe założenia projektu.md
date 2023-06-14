@@ -36,11 +36,7 @@ Oszczędzanie jest szczególnie ważne w dobie szalejącej inflacji. Tym bardzie
 
 ### Wsparcie i propagowanie pomocy charytatywnej.
 
-Możliwość przeznaczenia części podatku na organizacje pożytku publicznego (OPP) to ważna inicjatywa. Stąd możliwość przekazania tej kwoty pojawia się w każdej z trzech ustaw
-
-- dla przedsiębiorców, dla osób zatrudnionych oraz inwestorów. Od teraz każdy, niezależnie
-
-od źródła przychodów, będzie mógł przekazać 1,5% na OPP, a osoby osiągające dochody z kilku źródeł - z każdego źródła niezależnie, na tę samą lub różne OPP.
+Możliwość przeznaczenia części podatku na organizacje pożytku publicznego (OPP) to ważna inicjatywa. Stąd możliwość przekazania tej kwoty pojawia się w każdej z trzech ustaw: dla przedsiębiorców, dla osób zatrudnionych oraz inwestorów. Od teraz każdy, niezależnie od źródła przychodów, będzie mógł przekazać 1,5% na OPP, a osoby osiągające dochody z kilku źródeł - z każdego źródła niezależnie, na tę samą lub różne OPP.
 
 ### PIT-y automatycznie wypełniane na podstawie zaliczek.
 
