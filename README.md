@@ -15,3 +15,7 @@ Powstał bałagan, który posprzątać mogła tylko kompleksowa zmiana. Ustawy t
 Współczesne przepisy są nieczytelne nie tylko dla zwykłych obywateli - często były niezrozumiałe również dla prawników. Pozwalały na szeroką dozę interpretacji, wymagały nieustannych zmian i komentarzy, a także wiążących objaśnień ze strony ministerstwa. Chaos był tak wielki i rozległy nie tylko przez objętość regulacji, ale także przez niestaranne, częste i nieprzemyślane zmiany w obrębie tego wielkiego bałaganu.
 
 Podstawowe założenie regulacji to niskie i proste podatki, automatyzacja rozliczeń, zachęcanie do inwestycji i przedsiębiorczości, a także wsparcie młodych i seniorów na rynku pracy.
+
+## Jak używać platformy GitHub i współtworzyć ustawę o PIT
+
+Zawsze doceniamy wkład społeczności. [Kliknij tutaj](CONTRIBUTING.md), aby wyświetlić plik, który pomoże ci zrozumieć jak działa platforma GitHub oraz jak z niej korzystać, aby pomóc w rozwoju projektu.
