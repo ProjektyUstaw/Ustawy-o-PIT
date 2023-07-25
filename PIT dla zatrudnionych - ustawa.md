@@ -33,11 +33,8 @@ Dla celów niniejszej ustawy rok podatkowy jest tożsamy z rokiem kalendarzowym.
 ### Art. 5. [wspólne rozliczenie]
 
 1. Małżonkowie podlegający obowiązkowi podatkowemu na mocy niniejszej ustawy, mogą na zgodny wniosek wspólnie rozliczyć osiągnięte dochody.
-2. Dochody małoletnich dzieci własnych i przysposobionych podlegają odrębnemu opodatkowaniu.
-3. Zasady i sposób opodatkowania, o którym mowa w ust. 1, ma zastosowanie również do osoby samotnie wychowującej dzieci:
-   1. małoletnie;
-   2. pełnoletnie, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną.
-4. W przypadku opieki naprzemiennej osoba samotnie wychowująca dzieci również może rozliczyć się wspólnie, przy czym dodatkowe pomniejszenie nie może przekroczyć połowy kwoty, o której mowa art. 9 ust. 2.
+2. Osoby małoletnie rozliczają się same lub wspólnie z opiekunem prawnym.
+
 
 ## Rozdział 2 - *Źródła przychodów*
 
@@ -120,19 +117,6 @@ Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
 
 1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty dwudziestocztero krotności minimalnego wynagrodzenia za pracę o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
 2. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
-
-### Art. 17. [ulga na dzieci]
-
-1. Od podstawy opodatkowania podatnik ma prawo odliczyć kwotę obliczoną zgodnie z ust. 2 na każde małoletnie dziecko, w stosunku do którego w roku podatkowym:
-   1. wykonywał władzę rodzicielską;
-   2. pełnił funkcję opiekuna prawnego, jeżeli dziecko z nim zamieszkiwało;
-   3. sprawował opiekę poprzez pełnienie funkcji rodziny zastępczej na podstawie orzeczenia sądu lub umowy zawartej ze starostą.
-2. Odliczeniu podlega kwota 1000 zł za każdy miesiąc kalendarzowy roku podatkowego, w którym podatnik wykonywał władzę, pełnił funkcję albo sprawował opiekę, o których mowa w ust. 1, w stosunku do:
-   1. małoletniego dziecka;
-   2. pełnoletniego dziecka, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną.
-3. W przypadku gdy w tym samym miesiącu kalendarzowym w stosunku do dziecka wykonywana jest władza, pełniona funkcja lub sprawowana opieka, o których mowa w ust. 1, każdemu z podatników przysługuje odliczenie w kwocie stanowiącej 1/30 kwoty obliczonej zgodnie z ust. 2 za każdy dzień sprawowania pieczy nad dzieckiem.
-4. Odliczenie dotyczy łącznie obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim. Kwotę tę podatnicy mogą odliczyć od podatku w dowolnej proporcji przez nich ustalonej. W przypadku braku porozumienia, kwotę tę podatnicy odliczają w częściach równych. W pozostałych przypadkach odliczenie w wysokości 100% stosuje podatnik, u którego dziecko ma miejsce zamieszkania w rozumieniu przepisów prawa cywilnego.
-5. Kwota, o której mowa w ust. 2, będzie corocznie podwyższana w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku poprzedzającego rok podatkowy w stosunku do tego samego okresu roku ubiegłego, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 ### Art. 18. [ulga na rehabilitację]
 
